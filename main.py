@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from pathlib import Path
@@ -6,7 +6,7 @@ import json
 
 app = FastAPI()
 
-# Настройка CORS
+# CORS
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -14,27 +14,37 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Монтируем статические файлы
+# Static files
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
-# Загрузка данных о рыбах
-def load_fish_data():
-    with open("fish_api.json", "r", encoding="utf-8") as f:
-        return json.load(f)
+# Constants
+INVENTORY_DIR = Path("inventory")
+FISH_DATA_PATH = Path("fish_api.json")
 
-# API endpoint
+def load_json(filepath: Path):
+    """Универсальная функция загрузки JSON"""
+    try:
+        return json.loads(filepath.read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        raise HTTPException(404, detail="File not found")
+    except json.JSONDecodeError:
+        raise HTTPException(500, detail="Invalid JSON format")
+
 @app.get("/api/fishes")
 async def get_fishes():
-    return load_fish_data()
+    """Получение данных о всех рыбах"""
+    return load_json(FISH_DATA_PATH)
 
-# Endpoint для инвентаря пользователя
 @app.get("/api/inventory/{username}")
-async def get_user_inventory(username: str):
+async def get_inventory(username: str):
+    """Получение инвентаря пользователя"""
+    inventory_path = INVENTORY_DIR / f"{username.lower()}.json"
     try:
-        with open(f"inventory/{username.lower()}.json", "r", encoding="utf-8") as f:
-            return json.load(f)
-    except FileNotFoundError:
-        return {"fishes": []}
+        return load_json(inventory_path)
+    except HTTPException as e:
+        if e.status_code == 404:
+            return {"fishes": []}
+        raise
 
 if __name__ == "__main__":
     import uvicorn

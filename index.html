@@ -40,13 +40,20 @@
             align-items: center;
             height: 100vh;
         }
+        .container {
+            transition: opacity 0.3s;
+        }
+        .container.hidden {
+            opacity: 0;
+            pointer-events: none;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <header class="py-4">
             <h1 class="text-center">🐟 Рыбный инвентарь</h1>
-            <div class="row">
+            <div class="row g-2">
                 <div class="col-md-6">
                     <input type="text" id="username" class="form-control" placeholder="Введите ваш ник">
                 </div>
@@ -80,154 +87,168 @@
 
         <div class="d-flex justify-content-between mt-4">
             <button id="prevPage" class="btn btn-outline-primary" disabled>Назад</button>
-            <span id="pageInfo">Страница 1 из 1</span>
+            <span id="pageInfo" class="text-muted">Страница 1 из 1</span>
             <button id="nextPage" class="btn btn-outline-primary" disabled>Вперед</button>
         </div>
     </div>
 
     <script>
-        let currentPage = 1;
-        let itemsPerPage = 12;
-        let allFish = [];
-        let filteredFish = [];
+        document.addEventListener('DOMContentLoaded', () => {
+            // Конфигурация
+            const config = {
+                itemsPerPage: 12,
+                apiBaseUrl: "http://localhost:8000/api"
+            };
 
-        document.getElementById('loadBtn').addEventListener('click', loadInventory);
-        document.getElementById('rarityFilter').addEventListener('change', filterInventory);
-        document.getElementById('prevPage').addEventListener('click', () => changePage(-1));
-        document.getElementById('nextPage').addEventListener('click', () => changePage(1));
+            // Состояние приложения
+            const state = {
+                currentPage: 1,
+                allFish: [],
+                filteredFish: []
+            };
 
-        async function loadInventory() {
-            const username = document.getElementById('username').value.trim();
-            if (!username) {
-                alert('Введите ваш ник!');
-                return;
+            // Кэш элементов DOM
+            const dom = {
+                inventory: document.getElementById("inventory"),
+                username: document.getElementById("username"),
+                rarityFilter: document.getElementById("rarityFilter"),
+                loadBtn: document.getElementById("loadBtn"),
+                prevPage: document.getElementById("prevPage"),
+                nextPage: document.getElementById("nextPage"),
+                pageInfo: document.getElementById("pageInfo"),
+                loading: document.getElementById("loading"),
+                container: document.querySelector(".container")
+            };
+
+            // Инициализация событий
+            function initEvents() {
+                dom.loadBtn.addEventListener("click", loadInventory);
+                dom.rarityFilter.addEventListener("change", filterInventory);
+                dom.prevPage.addEventListener("click", () => changePage(-1));
+                dom.nextPage.addEventListener("click", () => changePage(1));
             }
 
-            showLoading(true);
-            
-            try {
-                // Загружаем инвентарь пользователя
-                const inventoryResponse = await fetch(`http://localhost:8000/api/inventory/${username}`);
-                const inventoryData = await inventoryResponse.json();
-                
-                // Загружаем все возможные рыбы
-                const fishResponse = await fetch('http://localhost:8000/api/fishes');
-                const fishData = await fishResponse.json();
-                
-                // Сопоставляем рыбы из инвентаря с полными данными
-                allFish = inventoryData.fishes.map(fishId => {
-                    return fishData.fishes.find(f => f.id === fishId) || {id: fishId, name: "Неизвестная рыба", rarity: "common"};
-                });
-                
-                filterInventory();
-                showLoading(false);
-            } catch (error) {
-                console.error('Ошибка загрузки:', error);
-                alert('Ошибка загрузки инвентаря');
-                showLoading(false);
-            }
-        }
+            // Основные функции
+            async function loadInventory() {
+                const username = dom.username.value.trim();
+                if (!username) return alert("Введите ваш ник!");
 
-        function filterInventory() {
-            const rarity = document.getElementById('rarityFilter').value;
-            
-            if (rarity === 'all') {
-                filteredFish = [...allFish];
-            } else {
-                filteredFish = allFish.filter(fish => fish.rarity === rarity);
-            }
-            
-            currentPage = 1;
-            renderInventory();
-        }
-
-        function renderInventory() {
-            const startIdx = (currentPage - 1) * itemsPerPage;
-            const endIdx = startIdx + itemsPerPage;
-            const pageFish = filteredFish.slice(startIdx, endIdx);
-            
-            const inventoryEl = document.getElementById('inventory');
-            inventoryEl.innerHTML = '';
-            
-            if (pageFish.length === 0) {
-                inventoryEl.innerHTML = '<div class="col-12 text-center py-5"><h4>Рыб не найдено</h4></div>';
-                document.getElementById('prevPage').disabled = true;
-                document.getElementById('nextPage').disabled = true;
-                document.getElementById('pageInfo').textContent = 'Страница 1 из 1';
-                return;
-            }
-            
-            pageFish.forEach(fish => {
-                const rarityClass = `rarity-${fish.rarity}`;
-                const priceBadge = fish.price ? `<span class="badge bg-primary">${fish.price} LC</span>` : '';
+                toggleLoading(true);
                 
-                inventoryEl.innerHTML += `
+                try {
+                    const [inventory, fishes] = await Promise.all([
+                        fetchData(`${config.apiBaseUrl}/inventory/${username}`),
+                        fetchData(`${config.apiBaseUrl}/fishes`)
+                    ]);
+                    
+                    state.allFish = (inventory.fishes || []).map(fishId => 
+                        fishes.fishes.find(f => f.id === fishId) || 
+                        { id: fishId, name: "Неизвестная рыба", rarity: "common" }
+                    );
+                    
+                    filterInventory();
+                } catch (error) {
+                    console.error("Ошибка:", error);
+                    alert("Ошибка загрузки данных");
+                } finally {
+                    toggleLoading(false);
+                }
+            }
+
+            function filterInventory() {
+                const rarity = dom.rarityFilter.value;
+                state.filteredFish = rarity === "all" 
+                    ? [...state.allFish] 
+                    : state.allFish.filter(fish => fish.rarity === rarity);
+                
+                state.currentPage = 1;
+                renderInventory();
+            }
+
+            function renderInventory() {
+                const startIdx = (state.currentPage - 1) * config.itemsPerPage;
+                const pageFish = state.filteredFish.slice(startIdx, startIdx + config.itemsPerPage);
+                
+                dom.inventory.innerHTML = pageFish.length 
+                    ? pageFish.map(createFishCard).join("")
+                    : '<div class="col-12 text-center py-5"><h4>Рыб не найдено</h4></div>';
+                
+                updatePagination();
+            }
+
+            // Вспомогательные функции
+            function createFishCard(fish) {
+                return `
                     <div class="col">
-                        <div class="card fish-card ${rarityClass}">
-                            <img src="https://via.placeholder.com/300x200?text=${encodeURIComponent(fish.name)}" class="card-img-top" alt="${fish.name}">
+                        <div class="card fish-card rarity-${fish.rarity}">
+                            <img src="https://via.placeholder.com/300x200?text=${encodeURIComponent(fish.name)}" 
+                                class="card-img-top" alt="${fish.name}">
                             <div class="card-body">
                                 <h5 class="card-title">${fish.name}</h5>
                                 <div>
-                                    <span class="badge ${getRarityBadgeClass(fish.rarity)}">${getRarityName(fish.rarity)}</span>
-                                    ${priceBadge}
+                                    <span class="badge ${getRarityClass(fish.rarity)}">
+                                        ${getRarityName(fish.rarity)}
+                                    </span>
+                                    ${fish.price ? `<span class="badge bg-primary">${fish.price} LC</span>` : ''}
                                 </div>
                             </div>
                         </div>
                     </div>
                 `;
-            });
-            
-            // Обновляем пагинацию
-            const totalPages = Math.ceil(filteredFish.length / itemsPerPage);
-            document.getElementById('pageInfo').textContent = `Страница ${currentPage} из ${totalPages}`;
-            document.getElementById('prevPage').disabled = currentPage <= 1;
-            document.getElementById('nextPage').disabled = currentPage >= totalPages;
-        }
-
-        function changePage(delta) {
-            const newPage = currentPage + delta;
-            const totalPages = Math.ceil(filteredFish.length / itemsPerPage);
-            
-            if (newPage > 0 && newPage <= totalPages) {
-                currentPage = newPage;
-                renderInventory();
             }
-        }
 
-        function getRarityBadgeClass(rarity) {
-            const classes = {
-                'common': 'bg-secondary',
-                'uncommon': 'bg-success',
-                'rare': 'bg-info',
-                'epic': 'bg-primary',
-                'legendary': 'bg-warning text-dark',
-                'immortal': 'bg-danger',
-                'mythical': 'bg-pink',
-                'arcane': 'bg-teal',
-                'ultimate': 'bg-gold'
+            function updatePagination() {
+                const totalPages = Math.ceil(state.filteredFish.length / config.itemsPerPage);
+                dom.pageInfo.textContent = `Страница ${state.currentPage} из ${totalPages}`;
+                dom.prevPage.disabled = state.currentPage <= 1;
+                dom.nextPage.disabled = state.currentPage >= totalPages;
+            }
+
+            function changePage(delta) {
+                const newPage = state.currentPage + delta;
+                const totalPages = Math.ceil(state.filteredFish.length / config.itemsPerPage);
+                
+                if (newPage > 0 && newPage <= totalPages) {
+                    state.currentPage = newPage;
+                    renderInventory();
+                }
+            }
+
+            function toggleLoading(show) {
+                dom.loading.classList.toggle("d-none", !show);
+                dom.container.classList.toggle("hidden", show);
+            }
+
+            async function fetchData(url) {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                return await response.json();
+            }
+
+            // Утилиты
+            const RARITY_MAP = {
+                common: { class: "bg-secondary", name: "Обычная" },
+                uncommon: { class: "bg-success", name: "Необычная" },
+                rare: { class: "bg-info", name: "Редкая" },
+                epic: { class: "bg-primary", name: "Эпическая" },
+                legendary: { class: "bg-warning text-dark", name: "Легендарная" },
+                immortal: { class: "bg-danger", name: "Бессмертная" },
+                mythical: { class: "bg-pink", name: "Мифическая" },
+                arcane: { class: "bg-teal", name: "Тайная" },
+                ultimate: { class: "bg-gold", name: "Уникальная" }
             };
-            return classes[rarity] || 'bg-secondary';
-        }
 
-        function getRarityName(rarity) {
-            const names = {
-                'common': 'Обычная',
-                'uncommon': 'Необычная',
-                'rare': 'Редкая',
-                'epic': 'Эпическая',
-                'legendary': 'Легендарная',
-                'immortal': 'Бессмертная',
-                'mythical': 'Мифическая',
-                'arcane': 'Тайная',
-                'ultimate': 'Уникальная'
-            };
-            return names[rarity] || rarity;
-        }
+            function getRarityClass(rarity) {
+                return RARITY_MAP[rarity]?.class || "bg-secondary";
+            }
 
-        function showLoading(show) {
-            document.getElementById('loading').classList.toggle('d-none', !show);
-            document.querySelector('.container').classList.toggle('d-none', show);
-        }
+            function getRarityName(rarity) {
+                return RARITY_MAP[rarity]?.name || rarity;
+            }
+
+            // Запуск приложения
+            initEvents();
+        });
     </script>
 </body>
 </html>

@@ -1,0 +1,3767 @@
+{
+    "perolya": [
+        {
+            "id": 404,
+            "name": "Самый первый старый башмак",
+            "price": 0,
+            "rarity": "ultimate",
+            "caught_at": 1748373825,
+            "mode": "normal"
+        }
+    ],
+    "deduli0": [
+        {
+            "id": 274,
+            "name": "Наливайка для дедули",
+            "price": 0,
+            "rarity": "ultimate",
+            "caught_at": 1748373825,
+            "mode": "normal"
+        }
+    ],
+    "supremedeterminant": [],
+    "lonely_fr": [
+        {
+            "id": 60,
+            "name": "Рыба-бабочка",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1750525451,
+            "mode": "limited"
+        },
+        {
+            "id": 73,
+            "name": "Таймень",
+            "price": 103,
+            "rarity": "rare",
+            "caught_at": 1751007631,
+            "mode": "limited"
+        },
+        {
+            "id": 23,
+            "name": "Ряпушка",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1751007993,
+            "mode": "limited"
+        },
+        {
+            "id": 23,
+            "name": "Ряпушка",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1751011248,
+            "mode": "limited"
+        }
+    ],
+    "lanaris_": [
+        {
+            "id": 79,
+            "name": "Ряпушка крупная",
+            "price": 72,
+            "rarity": "rare",
+            "caught_at": 1750158413,
+            "mode": "limited"
+        },
+        {
+            "id": 29,
+            "name": "Щиповка",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1750510819,
+            "mode": "limited"
+        },
+        {
+            "id": 114,
+            "name": "Тигровая рыба",
+            "price": 135,
+            "rarity": "epic",
+            "caught_at": 1750511145,
+            "mode": "limited"
+        },
+        {
+            "id": 77,
+            "name": "Омуль",
+            "price": 99,
+            "rarity": "rare",
+            "caught_at": 1750518298,
+            "mode": "limited"
+        },
+        {
+            "id": 5,
+            "name": "Пескарь",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1750521648,
+            "mode": "limited"
+        },
+        {
+            "id": 77,
+            "name": "Омуль",
+            "price": 99,
+            "rarity": "rare",
+            "caught_at": 1750525215,
+            "mode": "limited"
+        },
+        {
+            "id": 67,
+            "name": "Кета",
+            "price": 63,
+            "rarity": "rare",
+            "caught_at": 1750525563,
+            "mode": "limited"
+        },
+        {
+            "id": 52,
+            "name": "Налим",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1750528824,
+            "mode": "limited"
+        },
+        {
+            "id": 41,
+            "name": "Минтай",
+            "price": 27,
+            "rarity": "uncommon",
+            "caught_at": 1750529183,
+            "mode": "limited"
+        },
+        {
+            "id": 33,
+            "name": "Сом",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1750597211,
+            "mode": "limited"
+        },
+        {
+            "id": 103,
+            "name": "Рыба-гитара",
+            "price": 90,
+            "rarity": "epic",
+            "caught_at": 1750597596,
+            "mode": "limited"
+        },
+        {
+            "id": 152,
+            "name": "Старый ботинок",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1750600846,
+            "mode": "limited"
+        },
+        {
+            "id": 18,
+            "name": "Сазан",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1750601164,
+            "mode": "limited"
+        },
+        {
+            "id": 2,
+            "name": "Окунь",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1750604424,
+            "mode": "limited"
+        },
+        {
+            "id": 20,
+            "name": "Белый амур",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1750604781,
+            "mode": "limited"
+        },
+        {
+            "id": 52,
+            "name": "Налим",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1750773619,
+            "mode": "limited"
+        },
+        {
+            "id": 44,
+            "name": "Скумбрия",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1750773999,
+            "mode": "limited"
+        },
+        {
+            "id": 9,
+            "name": "Верховка",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1750777227,
+            "mode": "limited"
+        },
+        {
+            "id": 20,
+            "name": "Белый амур",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1750777586,
+            "mode": "limited"
+        }
+    ],
+    "referendum": [
+        {
+            "id": 139,
+            "name": "Рубиновая пиранья",
+            "price": 150,
+            "rarity": "legendary",
+            "caught_at": 1749553477,
+            "mode": "limited"
+        },
+        {
+            "id": 13,
+            "name": "Густера",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749556905,
+            "mode": "limited"
+        },
+        {
+            "id": 46,
+            "name": "Анчоус",
+            "price": 27,
+            "rarity": "uncommon",
+            "caught_at": 1749557232,
+            "mode": "limited"
+        },
+        {
+            "id": 50,
+            "name": "Палтус малый",
+            "price": 55,
+            "rarity": "uncommon",
+            "caught_at": 1749560506,
+            "mode": "limited"
+        },
+        {
+            "id": 97,
+            "name": "Рыба-ёж",
+            "price": 96,
+            "rarity": "epic",
+            "caught_at": 1749560823,
+            "mode": "limited"
+        },
+        {
+            "id": 82,
+            "name": "Марлин полосатый",
+            "price": 103,
+            "rarity": "rare",
+            "caught_at": 1749801651,
+            "mode": "limited"
+        },
+        {
+            "id": 119,
+            "name": "Панцирная щука",
+            "price": 135,
+            "rarity": "epic",
+            "caught_at": 1749805363,
+            "mode": "limited"
+        },
+        {
+            "id": 182,
+            "name": "Скорбь капитана",
+            "price": 357,
+            "rarity": "immortal",
+            "caught": false,
+            "caught_at": 1749812480,
+            "mode": "limited"
+        },
+        {
+            "id": 80,
+            "name": "Нельма",
+            "price": 112,
+            "rarity": "rare",
+            "caught_at": 1749816397,
+            "mode": "limited"
+        },
+        {
+            "id": 70,
+            "name": "Чавыча",
+            "price": 108,
+            "rarity": "rare",
+            "caught_at": 1749819856,
+            "mode": "limited"
+        }
+    ],
+    "dekkit_boo": [
+        {
+            "id": 181,
+            "name": "Последний ихтиозавр",
+            "price": 510,
+            "rarity": "immortal",
+            "caught": false,
+            "caught_at": 1749891627,
+            "mode": "limited"
+        },
+        {
+            "id": 177,
+            "name": "Жемчужина бессмертия",
+            "price": 493,
+            "rarity": "immortal",
+            "caught": false,
+            "caught_at": 1749999867,
+            "mode": "limited"
+        },
+        {
+            "id": 54,
+            "name": "Линь морской",
+            "price": 44,
+            "rarity": "uncommon",
+            "caught_at": 1750525603,
+            "mode": "limited"
+        },
+        {
+            "id": 47,
+            "name": "Барабулька",
+            "price": 44,
+            "rarity": "uncommon",
+            "caught_at": 1750528842,
+            "mode": "limited"
+        },
+        {
+            "id": 12,
+            "name": "Ротан",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1750608027,
+            "mode": "limited"
+        },
+        {
+            "id": 48,
+            "name": "Морской окунь",
+            "price": 49,
+            "rarity": "uncommon",
+            "caught_at": 1750608293,
+            "mode": "limited"
+        },
+        {
+            "id": 121,
+            "name": "Золотая рыбка",
+            "price": 120,
+            "rarity": "legendary",
+            "caught_at": 1750777236,
+            "mode": "limited"
+        }
+    ],
+    "happy_maro": [
+        {
+            "id": 59,
+            "name": "Рыба-ангел",
+            "price": 49,
+            "rarity": "uncommon",
+            "caught_at": 1749207620,
+            "mode": "limited"
+        },
+        {
+            "id": 34,
+            "name": "Лещ",
+            "price": 22,
+            "rarity": "uncommon",
+            "caught_at": 1749207984,
+            "mode": "limited"
+        },
+        {
+            "id": 101,
+            "name": "Манта",
+            "price": 135,
+            "rarity": "epic",
+            "caught_at": 1749214850,
+            "mode": "limited"
+        },
+        {
+            "id": 60,
+            "name": "Рыба-бабочка",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1749287194,
+            "mode": "limited"
+        },
+        {
+            "id": 57,
+            "name": "Рыба-жаба",
+            "price": 27,
+            "rarity": "uncommon",
+            "caught_at": 1749290428,
+            "mode": "limited"
+        },
+        {
+            "id": 116,
+            "name": "Скат-орляк",
+            "price": 126,
+            "rarity": "epic",
+            "caught_at": 1749294414,
+            "mode": "limited"
+        },
+        {
+            "id": 47,
+            "name": "Барабулька",
+            "price": 44,
+            "rarity": "uncommon",
+            "caught_at": 1749297631,
+            "mode": "limited"
+        },
+        {
+            "id": 35,
+            "name": "Карп",
+            "price": 27,
+            "rarity": "uncommon",
+            "caught_at": 1749297973,
+            "mode": "limited"
+        },
+        {
+            "id": 144,
+            "name": "Бессмертный лосось",
+            "price": 180,
+            "rarity": "legendary",
+            "caught_at": 1749301556,
+            "mode": "limited"
+        },
+        {
+            "id": 88,
+            "name": "Треска крупная",
+            "price": 94,
+            "rarity": "rare",
+            "caught_at": 1749304830,
+            "mode": "limited"
+        },
+        {
+            "id": 133,
+            "name": "Ледяной кит",
+            "price": 200,
+            "rarity": "legendary",
+            "caught_at": 1749308742,
+            "mode": "limited"
+        },
+        {
+            "id": 74,
+            "name": "Ленок",
+            "price": 85,
+            "rarity": "rare",
+            "caught_at": 1749376810,
+            "mode": "limited"
+        },
+        {
+            "id": 122,
+            "name": "Рыба-дракон",
+            "price": 140,
+            "rarity": "legendary",
+            "caught_at": 1749377175,
+            "mode": "limited"
+        },
+        {
+            "id": 70,
+            "name": "Чавыча",
+            "price": 108,
+            "rarity": "rare",
+            "caught_at": 1749380440,
+            "mode": "limited"
+        },
+        {
+            "id": 12,
+            "name": "Ротан",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749384056,
+            "mode": "limited"
+        },
+        {
+            "id": 24,
+            "name": "Сиг",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749553229,
+            "mode": "limited"
+        },
+        {
+            "id": 105,
+            "name": "Летучая рыба",
+            "price": 84,
+            "rarity": "epic",
+            "caught_at": 1749556828,
+            "mode": "limited"
+        },
+        {
+            "id": 140,
+            "name": "Сапфировый дельфин",
+            "price": 180,
+            "rarity": "legendary",
+            "caught_at": 1749560451,
+            "mode": "limited"
+        },
+        {
+            "id": 18,
+            "name": "Сазан",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749805567,
+            "mode": "limited"
+        },
+        {
+            "id": 119,
+            "name": "Панцирная щука",
+            "price": 135,
+            "rarity": "epic",
+            "caught_at": 1749812501,
+            "mode": "limited"
+        },
+        {
+            "id": 106,
+            "name": "Рыба-сабля",
+            "price": 120,
+            "rarity": "epic",
+            "caught_at": 1749906400,
+            "mode": "limited"
+        },
+        {
+            "id": 72,
+            "name": "Сима",
+            "price": 67,
+            "rarity": "rare",
+            "caught_at": 1749978417,
+            "mode": "limited"
+        },
+        {
+            "id": 98,
+            "name": "Рыба-камень",
+            "price": 126,
+            "rarity": "epic",
+            "caught_at": 1749992451,
+            "mode": "limited"
+        },
+        {
+            "id": 110,
+            "name": "Змееголов",
+            "price": 126,
+            "rarity": "epic",
+            "caught_at": 1749992764,
+            "mode": "limited"
+        },
+        {
+            "id": 64,
+            "name": "Белуга",
+            "price": 112,
+            "rarity": "rare",
+            "caught_at": 1750028536,
+            "mode": "limited"
+        },
+        {
+            "id": 73,
+            "name": "Таймень",
+            "price": 103,
+            "rarity": "rare",
+            "caught_at": 1750082777,
+            "mode": "limited"
+        },
+        {
+            "id": 97,
+            "name": "Рыба-ёж",
+            "price": 96,
+            "rarity": "epic",
+            "caught_at": 1750147393,
+            "mode": "limited"
+        },
+        {
+            "id": 88,
+            "name": "Треска крупная",
+            "price": 94,
+            "rarity": "rare",
+            "caught_at": 1750150832,
+            "mode": "limited"
+        },
+        {
+            "id": 112,
+            "name": "Пиранья",
+            "price": 105,
+            "rarity": "epic",
+            "caught_at": 1750151170,
+            "mode": "limited"
+        },
+        {
+            "id": 52,
+            "name": "Налим",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1750154436,
+            "mode": "limited"
+        },
+        {
+            "id": 103,
+            "name": "Рыба-гитара",
+            "price": 90,
+            "rarity": "epic",
+            "caught_at": 1750161609,
+            "mode": "limited"
+        },
+        {
+            "id": 280,
+            "name": "Балтика 9 0.5 л",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1750510823,
+            "mode": "limited"
+        },
+        {
+            "id": 279,
+            "name": "Бутылка Водки",
+            "price": 67,
+            "rarity": "rare",
+            "caught_at": 1750518025,
+            "mode": "limited"
+        },
+        {
+            "id": 130,
+            "name": "Солнечный тунец",
+            "price": 170,
+            "rarity": "legendary",
+            "caught_at": 1750521643,
+            "mode": "limited"
+        },
+        {
+            "id": 5,
+            "name": "Пескарь",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1750521971,
+            "mode": "limited"
+        },
+        {
+            "id": 113,
+            "name": "Красный паку",
+            "price": 120,
+            "rarity": "epic",
+            "caught_at": 1750525215,
+            "mode": "limited"
+        },
+        {
+            "id": 85,
+            "name": "Сибас",
+            "price": 99,
+            "rarity": "rare",
+            "caught_at": 1750525569,
+            "mode": "limited"
+        },
+        {
+            "id": 4,
+            "name": "Ёрш",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1750528827,
+            "mode": "limited"
+        },
+        {
+            "id": 280,
+            "name": "Балтика 9 0.5 л",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1750529163,
+            "mode": "limited"
+        },
+        {
+            "id": 37,
+            "name": "Ставрида",
+            "price": 27,
+            "rarity": "uncommon",
+            "caught_at": 1750597212,
+            "mode": "limited"
+        },
+        {
+            "id": 75,
+            "name": "Муксун",
+            "price": 94,
+            "rarity": "rare",
+            "caught_at": 1750597562,
+            "mode": "limited"
+        },
+        {
+            "id": 52,
+            "name": "Налим",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1750600817,
+            "mode": "limited"
+        },
+        {
+            "id": 2,
+            "name": "Окунь",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1750604418,
+            "mode": "limited"
+        },
+        {
+            "id": 116,
+            "name": "Скат-орляк",
+            "price": 126,
+            "rarity": "epic",
+            "caught_at": 1750608022,
+            "mode": "limited"
+        },
+        {
+            "id": 44,
+            "name": "Скумбрия",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1750611647,
+            "mode": "limited"
+        },
+        {
+            "id": 49,
+            "name": "Зубатка",
+            "price": 55,
+            "rarity": "uncommon",
+            "caught_at": 1750770023,
+            "mode": "limited"
+        },
+        {
+            "id": 91,
+            "name": "Акула малая",
+            "price": 90,
+            "rarity": "epic",
+            "caught_at": 1750773622,
+            "mode": "limited"
+        },
+        {
+            "id": 55,
+            "name": "Корюшка морская",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1750777230,
+            "mode": "limited"
+        },
+        {
+            "id": 111,
+            "name": "Электрический угорь",
+            "price": 144,
+            "rarity": "epic",
+            "caught_at": 1750777588,
+            "mode": "limited"
+        },
+        {
+            "id": 105,
+            "name": "Летучая рыба",
+            "price": 84,
+            "rarity": "epic",
+            "caught_at": 1751011333,
+            "mode": "limited"
+        }
+    ],
+    "ovcesobaka": [
+        {
+            "id": 12,
+            "name": "Ротан",
+            "price": 2,
+            "rarity": "common",
+            "caught_at": 1748367622
+        },
+        {
+            "id": 8,
+            "name": "Гольян",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1750514499,
+            "mode": "limited"
+        },
+        {
+            "id": 152,
+            "name": "Старый ботинок",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1750514769,
+            "mode": "limited"
+        }
+    ],
+    "unigeon": [
+        {
+            "id": 151,
+            "name": "Португальский кораблик",
+            "price": 198,
+            "rarity": "legendary",
+            "caught_at": 1749304830,
+            "mode": "limited"
+        },
+        {
+            "id": 132,
+            "name": "Громовая акула",
+            "price": 200,
+            "rarity": "legendary",
+            "caught_at": 1749377209,
+            "mode": "limited"
+        },
+        {
+            "id": 110,
+            "name": "Змееголов",
+            "price": 126,
+            "rarity": "epic",
+            "caught_at": 1749556825,
+            "mode": "limited"
+        },
+        {
+            "id": 141,
+            "name": "Платиновый марлин",
+            "price": 200,
+            "rarity": "legendary",
+            "caught_at": 1749560512,
+            "mode": "limited"
+        },
+        {
+            "id": 124,
+            "name": "Рыба-феникс",
+            "price": 160,
+            "rarity": "legendary",
+            "caught_at": 1749801621,
+            "mode": "limited"
+        },
+        {
+            "id": 164,
+            "name": "Кристальный карп",
+            "price": 442,
+            "rarity": "immortal",
+            "caught": false,
+            "caught_at": 1749805546,
+            "mode": "limited"
+        },
+        {
+            "id": 93,
+            "name": "Барракуда",
+            "price": 120,
+            "rarity": "epic",
+            "caught_at": 1749989193,
+            "mode": "limited"
+        },
+        {
+            "id": 45,
+            "name": "Сардина",
+            "price": 33,
+            "rarity": "uncommon",
+            "caught_at": 1749996060,
+            "mode": "limited"
+        },
+        {
+            "id": 145,
+            "name": "Древняя целаканта",
+            "price": 200,
+            "rarity": "legendary",
+            "caught_at": 1750158143,
+            "mode": "limited"
+        },
+        {
+            "id": 39,
+            "name": "Камбала",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1750510820,
+            "mode": "limited"
+        },
+        {
+            "id": 138,
+            "name": "Алмазный осётр",
+            "price": 200,
+            "rarity": "legendary",
+            "caught_at": 1750514758,
+            "mode": "limited"
+        }
+    ],
+    "mefisto057": [
+        {
+            "id": 116,
+            "name": "Скат-орляк",
+            "price": 126,
+            "rarity": "epic",
+            "caught_at": 1750608257,
+            "mode": "limited"
+        },
+        {
+            "id": 8,
+            "name": "Гольян",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1750611630,
+            "mode": "limited"
+        }
+    ],
+    "icid5p": [
+        {
+            "id": 45,
+            "name": "Сардина",
+            "price": 33,
+            "rarity": "uncommon",
+            "caught_at": 1750525570,
+            "mode": "limited"
+        },
+        {
+            "id": 74,
+            "name": "Ленок",
+            "price": 85,
+            "rarity": "rare",
+            "caught_at": 1750529031,
+            "mode": "limited"
+        },
+        {
+            "id": 54,
+            "name": "Линь морской",
+            "price": 44,
+            "rarity": "uncommon",
+            "caught_at": 1750597343,
+            "mode": "limited"
+        },
+        {
+            "id": 148,
+            "name": "Божественный краб",
+            "price": 170,
+            "rarity": "legendary",
+            "caught_at": 1751008003,
+            "mode": "limited"
+        }
+    ],
+    "thefr4gtr4p": [
+        {
+            "id": 59,
+            "name": "Рыба-ангел",
+            "price": 49,
+            "rarity": "uncommon",
+            "caught_at": 1750147526,
+            "mode": "limited"
+        },
+        {
+            "id": 127,
+            "name": "Царь-рыба",
+            "price": 180,
+            "rarity": "legendary",
+            "caught_at": 1750511184,
+            "mode": "limited"
+        }
+    ],
+    "balls_of_steei": [
+        {
+            "id": 22,
+            "name": "Снеток",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749196894,
+            "mode": "limited"
+        }
+    ],
+    "pak_stryker": [
+        {
+            "id": 26,
+            "name": "Форель ручьевая",
+            "price": 3,
+            "rarity": "common",
+            "caught_at": 1748367838
+        },
+        {
+            "id": 29,
+            "name": "Щиповка",
+            "price": 3,
+            "rarity": "common",
+            "caught_at": 1748368779
+        },
+        {
+            "id": 56,
+            "name": "Рыба-игла",
+            "price": 6,
+            "rarity": "uncommon",
+            "caught_at": 1748369206
+        },
+        {
+            "id": 50,
+            "name": "Палтус малый",
+            "price": 10,
+            "rarity": "uncommon",
+            "caught_at": 1748369805
+        }
+    ],
+    "lizamoloko": [
+        {
+            "id": 97,
+            "name": "Рыба-ёж",
+            "price": 96,
+            "rarity": "epic",
+            "caught_at": 1749553310,
+            "mode": "limited"
+        },
+        {
+            "id": 76,
+            "name": "Чир",
+            "price": 90,
+            "rarity": "rare",
+            "caught_at": 1749812438,
+            "mode": "limited"
+        },
+        {
+            "id": 98,
+            "name": "Рыба-камень",
+            "price": 126,
+            "rarity": "epic",
+            "caught_at": 1749999976,
+            "mode": "limited"
+        },
+        {
+            "id": 108,
+            "name": "Рыба-гадюка",
+            "price": 114,
+            "rarity": "epic",
+            "caught_at": 1750147343,
+            "mode": "limited"
+        },
+        {
+            "id": 86,
+            "name": "Луфарь",
+            "price": 81,
+            "rarity": "rare",
+            "caught_at": 1750511121,
+            "mode": "limited"
+        }
+    ],
+    "lilithnysh": [],
+    "mrslibba": [
+        {
+            "id": 36,
+            "name": "Кефаль",
+            "price": 33,
+            "rarity": "uncommon",
+            "caught_at": 1750608032,
+            "mode": "limited"
+        }
+    ],
+    "pridepinnacle": [
+        {
+            "id": 3,
+            "name": "Плотва",
+            "price": 1,
+            "rarity": "common",
+            "caught_at": 1748369747
+        }
+    ],
+    "dima_borov": [],
+    "hrymka51": [
+        {
+            "id": 16,
+            "name": "Язь",
+            "price": 3,
+            "rarity": "common",
+            "caught_at": 1748372171
+        },
+        {
+            "id": 100,
+            "name": "Гигантский групер",
+            "price": 150,
+            "rarity": "epic",
+            "caught_at": 1749294129,
+            "mode": "limited"
+        },
+        {
+            "id": 56,
+            "name": "Рыба-игла",
+            "price": 33,
+            "rarity": "uncommon",
+            "caught_at": 1749301244,
+            "mode": "limited"
+        }
+    ],
+    "fokrok": [
+        {
+            "id": 102,
+            "name": "Скат-хвостокол",
+            "price": 105,
+            "rarity": "epic",
+            "caught_at": 1750608018,
+            "mode": "limited"
+        },
+        {
+            "id": 41,
+            "name": "Минтай",
+            "price": 27,
+            "rarity": "uncommon",
+            "caught_at": 1750608246,
+            "mode": "limited"
+        },
+        {
+            "id": 275,
+            "name": "Рыба-капля",
+            "price": 49,
+            "rarity": "rare",
+            "caught_at": 1750881626,
+            "mode": "limited"
+        },
+        {
+            "id": 133,
+            "name": "Ледяной кит",
+            "price": 200,
+            "rarity": "legendary",
+            "caught_at": 1750881831,
+            "mode": "limited"
+        },
+        {
+            "id": 118,
+            "name": "Голиаф",
+            "price": 150,
+            "rarity": "epic",
+            "caught_at": 1750888916,
+            "mode": "limited"
+        }
+    ],
+    "raidzin666": [
+        {
+            "id": 152,
+            "name": "Старый ботинок",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1750597260,
+            "mode": "limited"
+        }
+    ],
+    "exhaustionandregret": [
+        {
+            "id": 24,
+            "name": "Сиг",
+            "price": 3,
+            "rarity": "common",
+            "caught_at": 1748373481
+        },
+        {
+            "id": 77,
+            "name": "Омуль",
+            "price": 22,
+            "rarity": "rare",
+            "caught_at": 1748374456
+        },
+        {
+            "id": 108,
+            "name": "Рыба-гадюка",
+            "price": 114,
+            "rarity": "epic",
+            "caught_at": 1749384128,
+            "mode": "limited"
+        },
+        {
+            "id": 144,
+            "name": "Бессмертный лосось",
+            "price": 180,
+            "rarity": "legendary",
+            "caught_at": 1750161626,
+            "mode": "limited"
+        },
+        {
+            "id": 1,
+            "name": "Карась",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1750529044,
+            "mode": "limited"
+        },
+        {
+            "id": 6,
+            "name": "Уклейка",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1750597316,
+            "mode": "limited"
+        }
+    ],
+    "test_testy_tester": [
+        {
+            "id": 89,
+            "name": "Мойва крупная",
+            "price": 15,
+            "rarity": "rare",
+            "caught_at": 1749899957,
+            "mode": "normal"
+        }
+    ],
+    "bodya_tln": [
+        {
+            "id": 275,
+            "name": "Рыба-капля",
+            "price": 49,
+            "rarity": "rare",
+            "caught_at": 1749902471,
+            "mode": "limited"
+        },
+        {
+            "id": 51,
+            "name": "Терпуг",
+            "price": 44,
+            "rarity": "uncommon",
+            "caught_at": 1749902799,
+            "mode": "limited"
+        },
+        {
+            "id": 25,
+            "name": "Хариус",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749906059,
+            "mode": "limited"
+        },
+        {
+            "id": 113,
+            "name": "Красный паку",
+            "price": 120,
+            "rarity": "epic",
+            "caught_at": 1750003597,
+            "mode": "limited"
+        },
+        {
+            "id": 50,
+            "name": "Палтус малый",
+            "price": 55,
+            "rarity": "uncommon",
+            "caught_at": 1750514422,
+            "mode": "limited"
+        }
+    ],
+    "azarik___": [
+        {
+            "id": 38,
+            "name": "Сельдь",
+            "price": 22,
+            "rarity": "uncommon",
+            "caught_at": 1748613722,
+            "mode": "limited"
+        }
+    ],
+    "dr_robit": [],
+    "nanaleonin3": [
+        {
+            "id": 97,
+            "name": "Рыба-ёж",
+            "price": 96,
+            "rarity": "epic",
+            "caught_at": 1748613740,
+            "mode": "limited"
+        }
+    ],
+    "desu_vult93": [],
+    "cool_lazy_trap": [],
+    "hypnos_i": [],
+    "c7eer": [
+        {
+            "id": 69,
+            "name": "Нерка",
+            "price": 72,
+            "rarity": "rare",
+            "caught_at": 1748613770,
+            "mode": "limited"
+        }
+    ],
+    "schiruke_nya": [
+        {
+            "id": 26,
+            "name": "Форель ручьевая",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1748613800,
+            "mode": "limited"
+        },
+        {
+            "id": 9,
+            "name": "Верховка",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749290424,
+            "mode": "limited"
+        }
+    ],
+    "miffril": [],
+    "konsei50": [
+        {
+            "id": 143,
+            "name": "Вечный карп",
+            "price": 160,
+            "rarity": "legendary",
+            "caught_at": 1748613839,
+            "mode": "limited"
+        }
+    ],
+    "sullendeadnrk": [
+        {
+            "id": 58,
+            "name": "Рыба-попугай",
+            "price": 44,
+            "rarity": "uncommon",
+            "caught_at": 1748790021,
+            "mode": "limited"
+        },
+        {
+            "id": 85,
+            "name": "Сибас",
+            "price": 99,
+            "rarity": "rare",
+            "caught_at": 1748790415,
+            "mode": "limited"
+        }
+    ],
+    "nui_niki": [
+        {
+            "id": 40,
+            "name": "Треска",
+            "price": 33,
+            "rarity": "uncommon",
+            "caught_at": 1750604426,
+            "mode": "limited"
+        },
+        {
+            "id": 36,
+            "name": "Кефаль",
+            "price": 33,
+            "rarity": "uncommon",
+            "caught_at": 1750604770,
+            "mode": "limited"
+        },
+        {
+            "id": 84,
+            "name": "Дорадо",
+            "price": 90,
+            "rarity": "rare",
+            "caught_at": 1750608021,
+            "mode": "limited"
+        },
+        {
+            "id": 62,
+            "name": "Форель",
+            "price": 54,
+            "rarity": "rare",
+            "caught_at": 1750608386,
+            "mode": "limited"
+        },
+        {
+            "id": 54,
+            "name": "Линь морской",
+            "price": 44,
+            "rarity": "uncommon",
+            "caught_at": 1750611620,
+            "mode": "limited"
+        },
+        {
+            "id": 70,
+            "name": "Чавыча",
+            "price": 108,
+            "rarity": "rare",
+            "caught_at": 1750773620,
+            "mode": "limited"
+        },
+        {
+            "id": 103,
+            "name": "Рыба-гитара",
+            "price": 90,
+            "rarity": "epic",
+            "caught_at": 1750773981,
+            "mode": "limited"
+        },
+        {
+            "id": 143,
+            "name": "Вечный карп",
+            "price": 160,
+            "rarity": "legendary",
+            "caught_at": 1750777219,
+            "mode": "limited"
+        },
+        {
+            "id": 60,
+            "name": "Рыба-бабочка",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1750777626,
+            "mode": "limited"
+        },
+        {
+            "id": 19,
+            "name": "Толстолобик",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1751007765,
+            "mode": "limited"
+        },
+        {
+            "id": 62,
+            "name": "Форель",
+            "price": 54,
+            "rarity": "rare",
+            "caught_at": 1751011231,
+            "mode": "limited"
+        }
+    ],
+    "spidercat04": [
+        {
+            "id": 146,
+            "name": "Рыба-оракул",
+            "price": 190,
+            "rarity": "legendary",
+            "caught_at": 1749539140,
+            "mode": "limited"
+        },
+        {
+            "id": 19,
+            "name": "Толстолобик",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1750147334,
+            "mode": "limited"
+        },
+        {
+            "id": 58,
+            "name": "Рыба-попугай",
+            "price": 44,
+            "rarity": "uncommon",
+            "caught_at": 1750147637,
+            "mode": "limited"
+        }
+    ],
+    "exelice": [
+        {
+            "id": 152,
+            "name": "Старый ботинок",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749369685,
+            "mode": "limited"
+        },
+        {
+            "id": 139,
+            "name": "Рубиновая пиранья",
+            "price": 150,
+            "rarity": "legendary",
+            "caught_at": 1750528853,
+            "mode": "limited"
+        },
+        {
+            "id": 13,
+            "name": "Густера",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1750529183,
+            "mode": "limited"
+        },
+        {
+            "id": 77,
+            "name": "Омуль",
+            "price": 99,
+            "rarity": "rare",
+            "caught_at": 1750597554,
+            "mode": "limited"
+        },
+        {
+            "id": 33,
+            "name": "Сом",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1750604418,
+            "mode": "limited"
+        },
+        {
+            "id": 74,
+            "name": "Ленок",
+            "price": 85,
+            "rarity": "rare",
+            "caught_at": 1750604782,
+            "mode": "limited"
+        },
+        {
+            "id": 62,
+            "name": "Форель",
+            "price": 54,
+            "rarity": "rare",
+            "caught_at": 1750608021,
+            "mode": "limited"
+        },
+        {
+            "id": 47,
+            "name": "Барабулька",
+            "price": 44,
+            "rarity": "uncommon",
+            "caught_at": 1750608253,
+            "mode": "limited"
+        },
+        {
+            "id": 83,
+            "name": "Рыба-меч",
+            "price": 112,
+            "rarity": "rare",
+            "caught_at": 1750611631,
+            "mode": "limited"
+        },
+        {
+            "id": 68,
+            "name": "Горбуша",
+            "price": 58,
+            "rarity": "rare",
+            "caught_at": 1750777222,
+            "mode": "limited"
+        },
+        {
+            "id": 76,
+            "name": "Чир",
+            "price": 90,
+            "rarity": "rare",
+            "caught_at": 1750777589,
+            "mode": "limited"
+        }
+    ],
+    "arlekinii": [
+        {
+            "id": 113,
+            "name": "Красный паку",
+            "price": 120,
+            "rarity": "epic",
+            "caught_at": 1748797562,
+            "mode": "limited"
+        },
+        {
+            "id": 11,
+            "name": "Линь",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749207618,
+            "mode": "limited"
+        },
+        {
+            "id": 120,
+            "name": "Атлантический голубой марлин",
+            "price": 150,
+            "rarity": "epic",
+            "caught_at": 1749280036,
+            "mode": "limited"
+        },
+        {
+            "id": 3,
+            "name": "Плотва",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749283299,
+            "mode": "limited"
+        },
+        {
+            "id": 53,
+            "name": "Угорь речной",
+            "price": 49,
+            "rarity": "uncommon",
+            "caught_at": 1749286963,
+            "mode": "limited"
+        },
+        {
+            "id": 196,
+            "name": "Кентавр глубин",
+            "price": 825,
+            "rarity": "mythical",
+            "caught": false,
+            "caught_at": 1749366038,
+            "mode": "limited"
+        },
+        {
+            "id": 111,
+            "name": "Электрический угорь",
+            "price": 144,
+            "rarity": "epic",
+            "caught_at": 1749373259,
+            "mode": "limited"
+        },
+        {
+            "id": 73,
+            "name": "Таймень",
+            "price": 103,
+            "rarity": "rare",
+            "caught_at": 1749377085,
+            "mode": "limited"
+        },
+        {
+            "id": 126,
+            "name": "Мегалодон",
+            "price": 200,
+            "rarity": "legendary",
+            "caught_at": 1749539217,
+            "mode": "limited"
+        },
+        {
+            "id": 3,
+            "name": "Плотва",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749542765,
+            "mode": "limited"
+        },
+        {
+            "id": 5,
+            "name": "Пескарь",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749553224,
+            "mode": "limited"
+        },
+        {
+            "id": 98,
+            "name": "Рыба-камень",
+            "price": 126,
+            "rarity": "epic",
+            "caught_at": 1749798391,
+            "mode": "limited"
+        },
+        {
+            "id": 10,
+            "name": "Краснопёрка",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749888156,
+            "mode": "limited"
+        },
+        {
+            "id": 81,
+            "name": "Тунец голубой",
+            "price": 108,
+            "rarity": "rare",
+            "caught_at": 1749891626,
+            "mode": "limited"
+        },
+        {
+            "id": 85,
+            "name": "Сибас",
+            "price": 99,
+            "rarity": "rare",
+            "caught_at": 1749913342,
+            "mode": "limited"
+        },
+        {
+            "id": 26,
+            "name": "Форель ручьевая",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749985544,
+            "mode": "limited"
+        },
+        {
+            "id": 109,
+            "name": "Арапаима",
+            "price": 150,
+            "rarity": "epic",
+            "caught_at": 1749988938,
+            "mode": "limited"
+        },
+        {
+            "id": 3,
+            "name": "Плотва",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749996041,
+            "mode": "limited"
+        },
+        {
+            "id": 280,
+            "name": "Балтика 9 0.5 л",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1750597413,
+            "mode": "limited"
+        },
+        {
+            "id": 11,
+            "name": "Линь",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1750600879,
+            "mode": "limited"
+        },
+        {
+            "id": 81,
+            "name": "Тунец голубой",
+            "price": 108,
+            "rarity": "rare",
+            "caught_at": 1750608061,
+            "mode": "limited"
+        },
+        {
+            "id": 72,
+            "name": "Сима",
+            "price": 67,
+            "rarity": "rare",
+            "caught_at": 1751007633,
+            "mode": "limited"
+        },
+        {
+            "id": 182,
+            "name": "Скорбь капитана",
+            "price": 357,
+            "rarity": "immortal",
+            "caught": false,
+            "caught_at": 1751011254,
+            "mode": "limited"
+        }
+    ],
+    "zxcobweb2": [
+        {
+            "id": 8,
+            "name": "Гольян",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1748797574,
+            "mode": "limited"
+        },
+        {
+            "id": 63,
+            "name": "Осётр",
+            "price": 90,
+            "rarity": "rare",
+            "caught_at": 1749200824,
+            "mode": "limited"
+        },
+        {
+            "id": 221,
+            "name": "Кристалл маны",
+            "price": 979,
+            "rarity": "arcane",
+            "caught": false,
+            "caught_at": 1749211561,
+            "mode": "limited"
+        },
+        {
+            "id": 86,
+            "name": "Луфарь",
+            "price": 81,
+            "rarity": "rare",
+            "caught_at": 1749214862,
+            "mode": "limited"
+        },
+        {
+            "id": 174,
+            "name": "Призрак впадины",
+            "price": 323,
+            "rarity": "immortal",
+            "caught": false,
+            "caught_at": 1749301617,
+            "mode": "limited"
+        }
+    ],
+    "himoriky": [
+        {
+            "id": 81,
+            "name": "Тунец голубой",
+            "price": 108,
+            "rarity": "rare",
+            "caught_at": 1748801186,
+            "mode": "limited"
+        }
+    ],
+    "s1lmon23": [
+        {
+            "id": 2,
+            "name": "Окунь",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749369769,
+            "mode": "limited"
+        },
+        {
+            "id": 2,
+            "name": "Окунь",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749546407,
+            "mode": "limited"
+        },
+        {
+            "id": 24,
+            "name": "Сиг",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749805355,
+            "mode": "limited"
+        },
+        {
+            "id": 162,
+            "name": "Вечный угорь",
+            "price": 357,
+            "rarity": "immortal",
+            "caught": false,
+            "caught_at": 1749808923,
+            "mode": "limited"
+        },
+        {
+            "id": 127,
+            "name": "Царь-рыба",
+            "price": 180,
+            "rarity": "legendary",
+            "caught_at": 1749809233,
+            "mode": "limited"
+        },
+        {
+            "id": 15,
+            "name": "Чехонь",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749816408,
+            "mode": "limited"
+        },
+        {
+            "id": 116,
+            "name": "Скат-орляк",
+            "price": 126,
+            "rarity": "epic",
+            "caught_at": 1749819655,
+            "mode": "limited"
+        },
+        {
+            "id": 49,
+            "name": "Зубатка",
+            "price": 55,
+            "rarity": "uncommon",
+            "caught_at": 1749888035,
+            "mode": "limited"
+        },
+        {
+            "id": 17,
+            "name": "Жерех",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749888434,
+            "mode": "limited"
+        },
+        {
+            "id": 79,
+            "name": "Ряпушка крупная",
+            "price": 72,
+            "rarity": "rare",
+            "caught_at": 1749978030,
+            "mode": "limited"
+        },
+        {
+            "id": 5,
+            "name": "Пескарь",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749978388,
+            "mode": "limited"
+        },
+        {
+            "id": 28,
+            "name": "Вьюн",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749981627,
+            "mode": "limited"
+        },
+        {
+            "id": 19,
+            "name": "Толстолобик",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749985239,
+            "mode": "limited"
+        },
+        {
+            "id": 15,
+            "name": "Чехонь",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749988831,
+            "mode": "limited"
+        }
+    ],
+    "deya_mo": [
+        {
+            "id": 25,
+            "name": "Хариус",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749985232,
+            "mode": "limited"
+        },
+        {
+            "id": 16,
+            "name": "Язь",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749985578,
+            "mode": "limited"
+        },
+        {
+            "id": 11,
+            "name": "Линь",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749988853,
+            "mode": "limited"
+        },
+        {
+            "id": 60,
+            "name": "Рыба-бабочка",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1749992441,
+            "mode": "limited"
+        },
+        {
+            "id": 29,
+            "name": "Щиповка",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749996035,
+            "mode": "limited"
+        },
+        {
+            "id": 134,
+            "name": "Огненный угорь",
+            "price": 180,
+            "rarity": "legendary",
+            "caught_at": 1749996366,
+            "mode": "limited"
+        },
+        {
+            "id": 2,
+            "name": "Окунь",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1750003240,
+            "mode": "limited"
+        },
+        {
+            "id": 28,
+            "name": "Вьюн",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1750003580,
+            "mode": "limited"
+        },
+        {
+            "id": 83,
+            "name": "Рыба-меч",
+            "price": 112,
+            "rarity": "rare",
+            "caught_at": 1750528826,
+            "mode": "limited"
+        },
+        {
+            "id": 81,
+            "name": "Тунец голубой",
+            "price": 108,
+            "rarity": "rare",
+            "caught_at": 1750529182,
+            "mode": "limited"
+        },
+        {
+            "id": 89,
+            "name": "Мойва крупная",
+            "price": 67,
+            "rarity": "rare",
+            "caught_at": 1750597212,
+            "mode": "limited"
+        },
+        {
+            "id": 102,
+            "name": "Скат-хвостокол",
+            "price": 105,
+            "rarity": "epic",
+            "caught_at": 1750597592,
+            "mode": "limited"
+        },
+        {
+            "id": 150,
+            "name": "Легенда океана",
+            "price": 200,
+            "rarity": "legendary",
+            "caught_at": 1750600975,
+            "mode": "limited"
+        },
+        {
+            "id": 5,
+            "name": "Пескарь",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1750601187,
+            "mode": "limited"
+        },
+        {
+            "id": 38,
+            "name": "Сельдь",
+            "price": 22,
+            "rarity": "uncommon",
+            "caught_at": 1750604429,
+            "mode": "limited"
+        },
+        {
+            "id": 93,
+            "name": "Барракуда",
+            "price": 120,
+            "rarity": "epic",
+            "caught_at": 1750608021,
+            "mode": "limited"
+        },
+        {
+            "id": 49,
+            "name": "Зубатка",
+            "price": 55,
+            "rarity": "uncommon",
+            "caught_at": 1750608379,
+            "mode": "limited"
+        },
+        {
+            "id": 87,
+            "name": "Палтус",
+            "price": 108,
+            "rarity": "rare",
+            "caught_at": 1750611637,
+            "mode": "limited"
+        }
+    ],
+    "7u10": [
+        {
+            "id": 20,
+            "name": "Белый амур",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749200435,
+            "mode": "limited"
+        },
+        {
+            "id": 21,
+            "name": "Корюшка",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749200795,
+            "mode": "limited"
+        },
+        {
+            "id": 152,
+            "name": "Старый ботинок",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749211244,
+            "mode": "limited"
+        },
+        {
+            "id": 70,
+            "name": "Чавыча",
+            "price": 108,
+            "rarity": "rare",
+            "caught_at": 1749211557,
+            "mode": "limited"
+        },
+        {
+            "id": 105,
+            "name": "Летучая рыба",
+            "price": 84,
+            "rarity": "epic",
+            "caught_at": 1749294034,
+            "mode": "limited"
+        },
+        {
+            "id": 100,
+            "name": "Гигантский групер",
+            "price": 150,
+            "rarity": "epic",
+            "caught_at": 1749294398,
+            "mode": "limited"
+        },
+        {
+            "id": 121,
+            "name": "Золотая рыбка",
+            "price": 120,
+            "rarity": "legendary",
+            "caught_at": 1749297626,
+            "mode": "limited"
+        },
+        {
+            "id": 7,
+            "name": "Бычок",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749297929,
+            "mode": "limited"
+        },
+        {
+            "id": 72,
+            "name": "Сима",
+            "price": 67,
+            "rarity": "rare",
+            "caught_at": 1749304870,
+            "mode": "limited"
+        },
+        {
+            "id": 34,
+            "name": "Лещ",
+            "price": 22,
+            "rarity": "uncommon",
+            "caught_at": 1749369689,
+            "mode": "limited"
+        },
+        {
+            "id": 140,
+            "name": "Сапфировый дельфин",
+            "price": 180,
+            "rarity": "legendary",
+            "caught_at": 1749370015,
+            "mode": "limited"
+        },
+        {
+            "id": 38,
+            "name": "Сельдь",
+            "price": 22,
+            "rarity": "uncommon",
+            "caught_at": 1749376853,
+            "mode": "limited"
+        },
+        {
+            "id": 117,
+            "name": "Рыба-аллигатор",
+            "price": 144,
+            "rarity": "epic",
+            "caught_at": 1749380793,
+            "mode": "limited"
+        },
+        {
+            "id": 118,
+            "name": "Голиаф",
+            "price": 150,
+            "rarity": "epic",
+            "caught_at": 1749384159,
+            "mode": "limited"
+        },
+        {
+            "id": 22,
+            "name": "Снеток",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749549927,
+            "mode": "limited"
+        },
+        {
+            "id": 9,
+            "name": "Верховка",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749816415,
+            "mode": "limited"
+        },
+        {
+            "id": 15,
+            "name": "Чехонь",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749892016,
+            "mode": "limited"
+        },
+        {
+            "id": 48,
+            "name": "Морской окунь",
+            "price": 49,
+            "rarity": "uncommon",
+            "caught_at": 1749906080,
+            "mode": "limited"
+        },
+        {
+            "id": 203,
+            "name": "Дракончик глубин",
+            "price": 675,
+            "rarity": "mythical",
+            "caught": false,
+            "caught_at": 1750525598,
+            "mode": "limited"
+        },
+        {
+            "id": 15,
+            "name": "Чехонь",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1751007999,
+            "mode": "limited"
+        },
+        {
+            "id": 34,
+            "name": "Лещ",
+            "price": 22,
+            "rarity": "uncommon",
+            "caught_at": 1751011259,
+            "mode": "limited"
+        }
+    ],
+    "sosickx": [
+        {
+            "id": 4,
+            "name": "Ёрш",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749204056,
+            "mode": "limited"
+        },
+        {
+            "id": 58,
+            "name": "Рыба-попугай",
+            "price": 44,
+            "rarity": "uncommon",
+            "caught_at": 1749546315,
+            "mode": "limited"
+        }
+    ],
+    "fropsya": [
+        {
+            "id": 405,
+            "name": "Рыба-горшок",
+            "price": 0,
+            "rarity": "ultimate",
+            "caught_at": 1748373825,
+            "mode": "limited"
+        },
+        {
+            "id": 39,
+            "name": "Камбала",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1749207626,
+            "mode": "limited"
+        },
+        {
+            "id": 51,
+            "name": "Терпуг",
+            "price": 44,
+            "rarity": "uncommon",
+            "caught_at": 1749207934,
+            "mode": "limited"
+        },
+        {
+            "id": 60,
+            "name": "Рыба-бабочка",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1749211628,
+            "mode": "limited"
+        }
+    ],
+    "aslanjk": [
+        {
+            "id": 148,
+            "name": "Божественный краб",
+            "price": 170,
+            "rarity": "legendary",
+            "caught_at": 1749207628,
+            "mode": "limited"
+        },
+        {
+            "id": 78,
+            "name": "Пелядь",
+            "price": 81,
+            "rarity": "rare",
+            "caught_at": 1749207955,
+            "mode": "limited"
+        },
+        {
+            "id": 36,
+            "name": "Кефаль",
+            "price": 33,
+            "rarity": "uncommon",
+            "caught_at": 1749902452,
+            "mode": "limited"
+        }
+    ],
+    "streamlex": [
+        {
+            "id": 23,
+            "name": "Ряпушка",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749207816,
+            "mode": "limited"
+        }
+    ],
+    "rinmurutempest": [
+        {
+            "id": 25,
+            "name": "Хариус",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749207949,
+            "mode": "limited"
+        },
+        {
+            "id": 150,
+            "name": "Легенда океана",
+            "price": 200,
+            "rarity": "legendary",
+            "caught_at": 1749294093,
+            "mode": "limited"
+        }
+    ],
+    "kafre5": [
+        {
+            "id": 15,
+            "name": "Чехонь",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749214844,
+            "mode": "limited"
+        },
+        {
+            "id": 47,
+            "name": "Барабулька",
+            "price": 44,
+            "rarity": "uncommon",
+            "caught_at": 1749215186,
+            "mode": "limited"
+        },
+        {
+            "id": 71,
+            "name": "Кижуч",
+            "price": 76,
+            "rarity": "rare",
+            "caught_at": 1749369763,
+            "mode": "limited"
+        },
+        {
+            "id": 90,
+            "name": "Сайра",
+            "price": 76,
+            "rarity": "rare",
+            "caught_at": 1749384201,
+            "mode": "limited"
+        },
+        {
+            "id": 100,
+            "name": "Гигантский групер",
+            "price": 150,
+            "rarity": "epic",
+            "caught_at": 1749909623,
+            "mode": "limited"
+        },
+        {
+            "id": 44,
+            "name": "Скумбрия",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1749909936,
+            "mode": "limited"
+        }
+    ],
+    "maksim_cyber_angel": [],
+    "oooodaa": [
+        {
+            "id": 22,
+            "name": "Снеток",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749211579,
+            "mode": "limited"
+        },
+        {
+            "id": 116,
+            "name": "Скат-орляк",
+            "price": 126,
+            "rarity": "epic",
+            "caught_at": 1749214872,
+            "mode": "limited"
+        }
+    ],
+    "piskogriz_22": [],
+    "zapzapper": [
+        {
+            "id": 19,
+            "name": "Толстолобик",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749280018,
+            "mode": "limited"
+        },
+        {
+            "id": 2,
+            "name": "Окунь",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749297933,
+            "mode": "limited"
+        }
+    ],
+    "nickolay_tarzan": [
+        {
+            "id": 2,
+            "name": "Окунь",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749283267,
+            "mode": "limited"
+        },
+        {
+            "id": 58,
+            "name": "Рыба-попугай",
+            "price": 44,
+            "rarity": "uncommon",
+            "caught_at": 1749812828,
+            "mode": "limited"
+        }
+    ],
+    "doterski_pivnyak": [
+        {
+            "id": 132,
+            "name": "Громовая акула",
+            "price": 200,
+            "rarity": "legendary",
+            "caught_at": 1750514776,
+            "mode": "limited"
+        }
+    ],
+    "dviray": [
+        {
+            "id": 24,
+            "name": "Сиг",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749283339,
+            "mode": "limited"
+        },
+        {
+            "id": 59,
+            "name": "Рыба-ангел",
+            "price": 49,
+            "rarity": "uncommon",
+            "caught_at": 1749286876,
+            "mode": "limited"
+        },
+        {
+            "id": 73,
+            "name": "Таймень",
+            "price": 103,
+            "rarity": "rare",
+            "caught_at": 1749376994,
+            "mode": "limited"
+        },
+        {
+            "id": 44,
+            "name": "Скумбрия",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1750521664,
+            "mode": "limited"
+        },
+        {
+            "id": 57,
+            "name": "Рыба-жаба",
+            "price": 27,
+            "rarity": "uncommon",
+            "caught_at": 1750608078,
+            "mode": "limited"
+        },
+        {
+            "id": 79,
+            "name": "Ряпушка крупная",
+            "price": 72,
+            "rarity": "rare",
+            "caught_at": 1750608388,
+            "mode": "limited"
+        }
+    ],
+    "ariettyk": [
+        {
+            "id": 29,
+            "name": "Щиповка",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749286869,
+            "mode": "limited"
+        },
+        {
+            "id": 3,
+            "name": "Плотва",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749290421,
+            "mode": "limited"
+        },
+        {
+            "id": 3,
+            "name": "Плотва",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749290784,
+            "mode": "limited"
+        },
+        {
+            "id": 10,
+            "name": "Краснопёрка",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749294034,
+            "mode": "limited"
+        },
+        {
+            "id": 86,
+            "name": "Луфарь",
+            "price": 81,
+            "rarity": "rare",
+            "caught_at": 1749294416,
+            "mode": "limited"
+        },
+        {
+            "id": 114,
+            "name": "Тигровая рыба",
+            "price": 135,
+            "rarity": "epic",
+            "caught_at": 1749297627,
+            "mode": "limited"
+        },
+        {
+            "id": 119,
+            "name": "Панцирная щука",
+            "price": 135,
+            "rarity": "epic",
+            "caught_at": 1749297976,
+            "mode": "limited"
+        },
+        {
+            "id": 182,
+            "name": "Скорбь капитана",
+            "price": 357,
+            "rarity": "immortal",
+            "caught": false,
+            "caught_at": 1749301229,
+            "mode": "limited"
+        },
+        {
+            "id": 111,
+            "name": "Электрический угорь",
+            "price": 144,
+            "rarity": "epic",
+            "caught_at": 1749301542,
+            "mode": "limited"
+        },
+        {
+            "id": 125,
+            "name": "Левиафан",
+            "price": 200,
+            "rarity": "legendary",
+            "caught_at": 1749304825,
+            "mode": "limited"
+        },
+        {
+            "id": 10,
+            "name": "Краснопёрка",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749377001,
+            "mode": "limited"
+        },
+        {
+            "id": 77,
+            "name": "Омуль",
+            "price": 99,
+            "rarity": "rare",
+            "caught_at": 1749380427,
+            "mode": "limited"
+        },
+        {
+            "id": 32,
+            "name": "Судак",
+            "price": 33,
+            "rarity": "uncommon",
+            "caught_at": 1749380796,
+            "mode": "limited"
+        },
+        {
+            "id": 8,
+            "name": "Гольян",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749384028,
+            "mode": "limited"
+        },
+        {
+            "id": 11,
+            "name": "Линь",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749477615,
+            "mode": "limited"
+        },
+        {
+            "id": 32,
+            "name": "Судак",
+            "price": 33,
+            "rarity": "uncommon",
+            "caught_at": 1749477989,
+            "mode": "limited"
+        },
+        {
+            "id": 3,
+            "name": "Плотва",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749550027,
+            "mode": "limited"
+        },
+        {
+            "id": 137,
+            "name": "Изумрудная рыба-меч",
+            "price": 170,
+            "rarity": "legendary",
+            "caught_at": 1749805240,
+            "mode": "limited"
+        },
+        {
+            "id": 150,
+            "name": "Легенда океана",
+            "price": 200,
+            "rarity": "legendary",
+            "caught_at": 1749823270,
+            "mode": "limited"
+        },
+        {
+            "id": 104,
+            "name": "Воббегонг",
+            "price": 99,
+            "rarity": "epic",
+            "caught_at": 1749913329,
+            "mode": "limited"
+        },
+        {
+            "id": 30,
+            "name": "Минога",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1750158038,
+            "mode": "limited"
+        },
+        {
+            "id": 75,
+            "name": "Муксун",
+            "price": 94,
+            "rarity": "rare",
+            "caught_at": 1750158371,
+            "mode": "limited"
+        },
+        {
+            "id": 24,
+            "name": "Сиг",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1750161612,
+            "mode": "limited"
+        },
+        {
+            "id": 97,
+            "name": "Рыба-ёж",
+            "price": 96,
+            "rarity": "epic",
+            "caught_at": 1750161975,
+            "mode": "limited"
+        },
+        {
+            "id": 87,
+            "name": "Палтус",
+            "price": 108,
+            "rarity": "rare",
+            "caught_at": 1750518029,
+            "mode": "limited"
+        },
+        {
+            "id": 279,
+            "name": "Бутылка Водки",
+            "price": 67,
+            "rarity": "rare",
+            "caught_at": 1750525212,
+            "mode": "limited"
+        },
+        {
+            "id": 11,
+            "name": "Линь",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1750525554,
+            "mode": "limited"
+        },
+        {
+            "id": 5,
+            "name": "Пескарь",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1751011555,
+            "mode": "limited"
+        }
+    ],
+    "nanashi220": [
+        {
+            "id": 174,
+            "name": "Призрак впадины",
+            "price": 323,
+            "rarity": "immortal",
+            "caught": false,
+            "caught_at": 1749286984,
+            "mode": "limited"
+        },
+        {
+            "id": 54,
+            "name": "Линь морской",
+            "price": 44,
+            "rarity": "uncommon",
+            "caught_at": 1749294100,
+            "mode": "limited"
+        }
+    ],
+    "alovardo1313": [],
+    "jioot": [
+        {
+            "id": 112,
+            "name": "Пиранья",
+            "price": 105,
+            "rarity": "epic",
+            "caught_at": 1749297926,
+            "mode": "limited"
+        }
+    ],
+    "hanziiiiiiiiiiiiiii": [
+        {
+            "id": 39,
+            "name": "Камбала",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1749298026,
+            "mode": "limited"
+        }
+    ],
+    "timu_r_ka": [
+        {
+            "id": 67,
+            "name": "Кета",
+            "price": 63,
+            "rarity": "rare",
+            "caught_at": 1749301549,
+            "mode": "limited"
+        }
+    ],
+    "t1relo": [],
+    "cornykrizere": [
+        {
+            "id": 65,
+            "name": "Севрюга",
+            "price": 81,
+            "rarity": "rare",
+            "caught_at": 1749301639,
+            "mode": "limited"
+        }
+    ],
+    "dohatejio": [
+        {
+            "id": 145,
+            "name": "Древняя целаканта",
+            "price": 200,
+            "rarity": "legendary",
+            "caught_at": 1749304860,
+            "mode": "limited"
+        },
+        {
+            "id": 30,
+            "name": "Минога",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749805624,
+            "mode": "limited"
+        },
+        {
+            "id": 41,
+            "name": "Минтай",
+            "price": 27,
+            "rarity": "uncommon",
+            "caught_at": 1749909887,
+            "mode": "limited"
+        }
+    ],
+    "swanzard": [
+        {
+            "id": 13,
+            "name": "Густера",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749376924,
+            "mode": "limited"
+        },
+        {
+            "id": 80,
+            "name": "Нельма",
+            "price": 112,
+            "rarity": "rare",
+            "caught_at": 1749384164,
+            "mode": "limited"
+        }
+    ],
+    "zebrail21": [
+        {
+            "id": 73,
+            "name": "Таймень",
+            "price": 103,
+            "rarity": "rare",
+            "caught_at": 1749982010,
+            "mode": "limited"
+        },
+        {
+            "id": 23,
+            "name": "Ряпушка",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749989213,
+            "mode": "limited"
+        },
+        {
+            "id": 31,
+            "name": "Щука",
+            "price": 27,
+            "rarity": "uncommon",
+            "caught_at": 1750147400,
+            "mode": "limited"
+        },
+        {
+            "id": 25,
+            "name": "Хариус",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1750161621,
+            "mode": "limited"
+        }
+    ],
+    "jeker3": [
+        {
+            "id": 38,
+            "name": "Сельдь",
+            "price": 22,
+            "rarity": "uncommon",
+            "caught_at": 1749369884,
+            "mode": "limited"
+        },
+        {
+            "id": 136,
+            "name": "Теневой морской дьявол",
+            "price": 190,
+            "rarity": "legendary",
+            "caught_at": 1749376904,
+            "mode": "limited"
+        },
+        {
+            "id": 103,
+            "name": "Рыба-гитара",
+            "price": 90,
+            "rarity": "epic",
+            "caught_at": 1750511154,
+            "mode": "limited"
+        }
+    ],
+    "minipeny": [
+        {
+            "id": 120,
+            "name": "Атлантический голубой марлин",
+            "price": 150,
+            "rarity": "epic",
+            "caught_at": 1749369905,
+            "mode": "limited"
+        },
+        {
+            "id": 74,
+            "name": "Ленок",
+            "price": 85,
+            "rarity": "rare",
+            "caught_at": 1749373231,
+            "mode": "limited"
+        }
+    ],
+    "barsi4ek": [
+        {
+            "id": 2,
+            "name": "Окунь",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1750525405,
+            "mode": "limited"
+        },
+        {
+            "id": 82,
+            "name": "Марлин полосатый",
+            "price": 103,
+            "rarity": "rare",
+            "caught_at": 1750528850,
+            "mode": "limited"
+        }
+    ],
+    "dfoxy": [],
+    "zergido": [
+        {
+            "id": 84,
+            "name": "Дорадо",
+            "price": 90,
+            "rarity": "rare",
+            "caught_at": 1749373302,
+            "mode": "limited"
+        },
+        {
+            "id": 63,
+            "name": "Осётр",
+            "price": 90,
+            "rarity": "rare",
+            "caught_at": 1749805431,
+            "mode": "limited"
+        }
+    ],
+    "kawaiibarbos": [
+        {
+            "id": 29,
+            "name": "Щиповка",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749373562,
+            "mode": "limited"
+        },
+        {
+            "id": 53,
+            "name": "Угорь речной",
+            "price": 49,
+            "rarity": "uncommon",
+            "caught_at": 1749546031,
+            "mode": "limited"
+        },
+        {
+            "id": 131,
+            "name": "Звёздный скат",
+            "price": 190,
+            "rarity": "legendary",
+            "caught_at": 1749546333,
+            "mode": "limited"
+        }
+    ],
+    "ashenex1le": [
+        {
+            "id": 13,
+            "name": "Густера",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749373577,
+            "mode": "limited"
+        },
+        {
+            "id": 95,
+            "name": "Рыба-молот",
+            "price": 150,
+            "rarity": "epic",
+            "caught_at": 1749542783,
+            "mode": "limited"
+        },
+        {
+            "id": 152,
+            "name": "Старый ботинок",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749916931,
+            "mode": "limited"
+        },
+        {
+            "id": 44,
+            "name": "Скумбрия",
+            "price": 38,
+            "rarity": "uncommon",
+            "caught_at": 1750511028,
+            "mode": "limited"
+        },
+        {
+            "id": 170,
+            "name": "Сердце моря",
+            "price": 306,
+            "rarity": "immortal",
+            "caught": false,
+            "caught_at": 1750525601,
+            "mode": "limited"
+        }
+    ],
+    "aratazaki": [
+        {
+            "id": 49,
+            "name": "Зубатка",
+            "price": 55,
+            "rarity": "uncommon",
+            "caught_at": 1750597300,
+            "mode": "limited"
+        },
+        {
+            "id": 92,
+            "name": "Мурена",
+            "price": 105,
+            "rarity": "epic",
+            "caught_at": 1750611641,
+            "mode": "limited"
+        }
+    ],
+    "rucodeby": [
+        {
+            "id": 14,
+            "name": "Подлещик",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749373595,
+            "mode": "limited"
+        },
+        {
+            "id": 10,
+            "name": "Краснопёрка",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749384080,
+            "mode": "limited"
+        },
+        {
+            "id": 78,
+            "name": "Пелядь",
+            "price": 81,
+            "rarity": "rare",
+            "caught_at": 1749812437,
+            "mode": "limited"
+        },
+        {
+            "id": 37,
+            "name": "Ставрида",
+            "price": 27,
+            "rarity": "uncommon",
+            "caught_at": 1749816409,
+            "mode": "limited"
+        },
+        {
+            "id": 115,
+            "name": "Сом-людоед",
+            "price": 150,
+            "rarity": "epic",
+            "caught_at": 1750525239,
+            "mode": "limited"
+        }
+    ],
+    "anton19o5": [],
+    "benjaminbatman22": [
+        {
+            "id": 107,
+            "name": "Морской чёрт",
+            "price": 135,
+            "rarity": "epic",
+            "caught_at": 1749376877,
+            "mode": "limited"
+        }
+    ],
+    "imbirnyash": [
+        {
+            "id": 56,
+            "name": "Рыба-игла",
+            "price": 33,
+            "rarity": "uncommon",
+            "caught_at": 1749377040,
+            "mode": "limited"
+        }
+    ],
+    "eliphin_jakob5": [
+        {
+            "id": 8,
+            "name": "Гольян",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749380434,
+            "mode": "limited"
+        }
+    ],
+    "nsderg": [
+        {
+            "id": 90,
+            "name": "Сайра",
+            "price": 76,
+            "rarity": "rare",
+            "caught_at": 1749384176,
+            "mode": "limited"
+        }
+    ],
+    "doctorgru": [
+        {
+            "id": 12,
+            "name": "Ротан",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749542461,
+            "mode": "limited"
+        },
+        {
+            "id": 85,
+            "name": "Сибас",
+            "price": 99,
+            "rarity": "rare",
+            "caught_at": 1749542784,
+            "mode": "limited"
+        }
+    ],
+    "hawanori": [
+        {
+            "id": 69,
+            "name": "Нерка",
+            "price": 72,
+            "rarity": "rare",
+            "caught_at": 1749546341,
+            "mode": "limited"
+        }
+    ],
+    "xvimchao": [
+        {
+            "id": 8,
+            "name": "Гольян",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749546406,
+            "mode": "limited"
+        },
+        {
+            "id": 15,
+            "name": "Чехонь",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749805540,
+            "mode": "limited"
+        },
+        {
+            "id": 18,
+            "name": "Сазан",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749888377,
+            "mode": "limited"
+        },
+        {
+            "id": 37,
+            "name": "Ставрида",
+            "price": 27,
+            "rarity": "uncommon",
+            "caught_at": 1749891632,
+            "mode": "limited"
+        }
+    ],
+    "ft_flame": [
+        {
+            "id": 19,
+            "name": "Толстолобик",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749556830,
+            "mode": "limited"
+        },
+        {
+            "id": 101,
+            "name": "Манта",
+            "price": 135,
+            "rarity": "epic",
+            "caught_at": 1749557179,
+            "mode": "limited"
+        },
+        {
+            "id": 26,
+            "name": "Форель ручьевая",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749560530,
+            "mode": "limited"
+        },
+        {
+            "id": 98,
+            "name": "Рыба-камень",
+            "price": 126,
+            "rarity": "epic",
+            "caught_at": 1749812448,
+            "mode": "limited"
+        },
+        {
+            "id": 94,
+            "name": "Рыба-пила",
+            "price": 135,
+            "rarity": "epic",
+            "caught_at": 1749812818,
+            "mode": "limited"
+        },
+        {
+            "id": 82,
+            "name": "Марлин полосатый",
+            "price": 103,
+            "rarity": "rare",
+            "caught_at": 1749816387,
+            "mode": "limited"
+        },
+        {
+            "id": 107,
+            "name": "Морской чёрт",
+            "price": 135,
+            "rarity": "epic",
+            "caught_at": 1749819648,
+            "mode": "limited"
+        },
+        {
+            "id": 75,
+            "name": "Муксун",
+            "price": 94,
+            "rarity": "rare",
+            "caught_at": 1751011242,
+            "mode": "limited"
+        }
+    ],
+    "poterputrov": [
+        {
+            "id": 80,
+            "name": "Нельма",
+            "price": 112,
+            "rarity": "rare",
+            "caught_at": 1749556864,
+            "mode": "limited"
+        },
+        {
+            "id": 88,
+            "name": "Треска крупная",
+            "price": 94,
+            "rarity": "rare",
+            "caught_at": 1749560505,
+            "mode": "limited"
+        },
+        {
+            "id": 10,
+            "name": "Краснопёрка",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749899081,
+            "mode": "limited"
+        }
+    ],
+    "spekkt0r": [],
+    "joltytop1gg": [],
+    "llllblackllllangelllll": [
+        {
+            "id": 107,
+            "name": "Морской чёрт",
+            "price": 135,
+            "rarity": "epic",
+            "caught_at": 1749560513,
+            "mode": "limited"
+        }
+    ],
+    "misterkennyster": [
+        {
+            "id": 92,
+            "name": "Мурена",
+            "price": 105,
+            "rarity": "epic",
+            "caught_at": 1749805581,
+            "mode": "limited"
+        },
+        {
+            "id": 275,
+            "name": "Рыба-капля",
+            "price": 49,
+            "rarity": "rare",
+            "caught_at": 1749913298,
+            "mode": "limited"
+        },
+        {
+            "id": 3,
+            "name": "Плотва",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749978035,
+            "mode": "limited"
+        },
+        {
+            "id": 47,
+            "name": "Барабулька",
+            "price": 44,
+            "rarity": "uncommon",
+            "caught_at": 1749981714,
+            "mode": "limited"
+        },
+        {
+            "id": 71,
+            "name": "Кижуч",
+            "price": 76,
+            "rarity": "rare",
+            "caught_at": 1749985576,
+            "mode": "limited"
+        },
+        {
+            "id": 135,
+            "name": "Хрустальная рыба",
+            "price": 160,
+            "rarity": "legendary",
+            "caught_at": 1750161607,
+            "mode": "limited"
+        },
+        {
+            "id": 7,
+            "name": "Бычок",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1750161967,
+            "mode": "limited"
+        },
+        {
+            "id": 94,
+            "name": "Рыба-пила",
+            "price": 135,
+            "rarity": "epic",
+            "caught_at": 1750525586,
+            "mode": "limited"
+        }
+    ],
+    "pa2e37": [
+        {
+            "id": 21,
+            "name": "Корюшка",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749805615,
+            "mode": "limited"
+        }
+    ],
+    "snetok00": [
+        {
+            "id": 11,
+            "name": "Линь",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1749808895,
+            "mode": "limited"
+        }
+    ],
+    "spektrsri": [
+        {
+            "id": 79,
+            "name": "Ряпушка крупная",
+            "price": 72,
+            "rarity": "rare",
+            "caught_at": 1749812446,
+            "mode": "limited"
+        },
+        {
+            "id": 15,
+            "name": "Чехонь",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749909834,
+            "mode": "limited"
+        },
+        {
+            "id": 1,
+            "name": "Карась",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749916983,
+            "mode": "limited"
+        },
+        {
+            "id": 61,
+            "name": "Лосось",
+            "price": 67,
+            "rarity": "rare",
+            "caught_at": 1750003228,
+            "mode": "limited"
+        },
+        {
+            "id": 132,
+            "name": "Громовая акула",
+            "price": 200,
+            "rarity": "legendary",
+            "caught_at": 1750597326,
+            "mode": "limited"
+        },
+        {
+            "id": 30,
+            "name": "Минога",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1750608032,
+            "mode": "limited"
+        },
+        {
+            "id": 104,
+            "name": "Воббегонг",
+            "price": 99,
+            "rarity": "epic",
+            "caught_at": 1750774031,
+            "mode": "limited"
+        }
+    ],
+    "time_reson": [
+        {
+            "id": 82,
+            "name": "Марлин полосатый",
+            "price": 103,
+            "rarity": "rare",
+            "caught_at": 1749812446,
+            "mode": "limited"
+        }
+    ],
+    "sintetika_official": [
+        {
+            "id": 205,
+            "name": "Тролль пучин",
+            "price": 825,
+            "rarity": "mythical",
+            "caught": false,
+            "caught_at": 1750147427,
+            "mode": "limited"
+        }
+    ],
+    "slowparanoik": [
+        {
+            "id": 18,
+            "name": "Сазан",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749816416,
+            "mode": "limited"
+        },
+        {
+            "id": 28,
+            "name": "Вьюн",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749888112,
+            "mode": "limited"
+        }
+    ],
+    "amosoreh": [],
+    "gaswor43": [
+        {
+            "id": 99,
+            "name": "Рыба-наполеон",
+            "price": 144,
+            "rarity": "epic",
+            "caught_at": 1749898876,
+            "mode": "limited"
+        }
+    ],
+    "budros_fennec": [
+        {
+            "id": 29,
+            "name": "Щиповка",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1749899031,
+            "mode": "limited"
+        },
+        {
+            "id": 70,
+            "name": "Чавыча",
+            "price": 108,
+            "rarity": "rare",
+            "caught_at": 1749902476,
+            "mode": "limited"
+        },
+        {
+            "id": 6,
+            "name": "Уклейка",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1749992797,
+            "mode": "limited"
+        }
+    ],
+    "ikiru_999": [
+        {
+            "id": 37,
+            "name": "Ставрида",
+            "price": 27,
+            "rarity": "uncommon",
+            "caught_at": 1750003611,
+            "mode": "limited"
+        }
+    ],
+    "andreylagg_": [
+        {
+            "id": 179,
+            "name": "Кровь тритона",
+            "price": 408,
+            "rarity": "immortal",
+            "caught": false,
+            "caught_at": 1749913336,
+            "mode": "limited"
+        }
+    ],
+    "xikava": [
+        {
+            "id": 21,
+            "name": "Корюшка",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1750601189,
+            "mode": "limited"
+        }
+    ],
+    "torian_kell": [
+        {
+            "id": 76,
+            "name": "Чир",
+            "price": 90,
+            "rarity": "rare",
+            "caught_at": 1749913504,
+            "mode": "limited"
+        }
+    ],
+    "animalsani": [],
+    "coco4ki_miso4ki": [
+        {
+            "id": 110,
+            "name": "Змееголов",
+            "price": 126,
+            "rarity": "epic",
+            "caught_at": 1749985233,
+            "mode": "limited"
+        }
+    ],
+    "mr_lemon_v2": [
+        {
+            "id": 108,
+            "name": "Рыба-гадюка",
+            "price": 114,
+            "rarity": "epic",
+            "caught_at": 1749985258,
+            "mode": "limited"
+        },
+        {
+            "id": 1,
+            "name": "Карась",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1750597223,
+            "mode": "limited"
+        },
+        {
+            "id": 17,
+            "name": "Жерех",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1750773650,
+            "mode": "limited"
+        }
+    ],
+    "killtheru": [
+        {
+            "id": 61,
+            "name": "Лосось",
+            "price": 67,
+            "rarity": "rare",
+            "caught_at": 1749985266,
+            "mode": "limited"
+        },
+        {
+            "id": 21,
+            "name": "Корюшка",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1751007639,
+            "mode": "limited"
+        },
+        {
+            "id": 38,
+            "name": "Сельдь",
+            "price": 22,
+            "rarity": "uncommon",
+            "caught_at": 1751007996,
+            "mode": "limited"
+        }
+    ],
+    "spectysoul": [
+        {
+            "id": 50,
+            "name": "Палтус малый",
+            "price": 55,
+            "rarity": "uncommon",
+            "caught_at": 1749985289,
+            "mode": "limited"
+        }
+    ],
+    "doomchanich": [
+        {
+            "id": 56,
+            "name": "Рыба-игла",
+            "price": 33,
+            "rarity": "uncommon",
+            "caught_at": 1751007659,
+            "mode": "limited"
+        },
+        {
+            "id": 73,
+            "name": "Таймень",
+            "price": 103,
+            "rarity": "rare",
+            "caught_at": 1751008006,
+            "mode": "limited"
+        },
+        {
+            "id": 38,
+            "name": "Сельдь",
+            "price": 22,
+            "rarity": "uncommon",
+            "caught_at": 1751011335,
+            "mode": "limited"
+        }
+    ],
+    "1retry1": [
+        {
+            "id": 148,
+            "name": "Божественный краб",
+            "price": 170,
+            "rarity": "legendary",
+            "caught_at": 1750608053,
+            "mode": "limited"
+        }
+    ],
+    "selkieman": [
+        {
+            "id": 9,
+            "name": "Верховка",
+            "price": 12,
+            "rarity": "common",
+            "caught_at": 1750003276,
+            "mode": "limited"
+        }
+    ],
+    "professordonbass": [
+        {
+            "id": 110,
+            "name": "Змееголов",
+            "price": 126,
+            "rarity": "epic",
+            "caught_at": 1750147358,
+            "mode": "limited"
+        },
+        {
+            "id": 100,
+            "name": "Гигантский групер",
+            "price": 150,
+            "rarity": "epic",
+            "caught_at": 1750154471,
+            "mode": "limited"
+        },
+        {
+            "id": 34,
+            "name": "Лещ",
+            "price": 22,
+            "rarity": "uncommon",
+            "caught_at": 1750161971,
+            "mode": "limited"
+        },
+        {
+            "id": 68,
+            "name": "Горбуша",
+            "price": 58,
+            "rarity": "rare",
+            "caught_at": 1750525234,
+            "mode": "limited"
+        }
+    ],
+    "sssm1le_": [
+        {
+            "id": 86,
+            "name": "Луфарь",
+            "price": 81,
+            "rarity": "rare",
+            "caught_at": 1750158449,
+            "mode": "limited"
+        },
+        {
+            "id": 104,
+            "name": "Воббегонг",
+            "price": 99,
+            "rarity": "epic",
+            "caught_at": 1750511007,
+            "mode": "limited"
+        },
+        {
+            "id": 143,
+            "name": "Вечный карп",
+            "price": 160,
+            "rarity": "legendary",
+            "caught_at": 1750773654,
+            "mode": "limited"
+        }
+    ],
+    "rokuwa7": [],
+    "volartx": [
+        {
+            "id": 93,
+            "name": "Барракуда",
+            "price": 120,
+            "rarity": "epic",
+            "caught_at": 1750521631,
+            "mode": "limited"
+        },
+        {
+            "id": 18,
+            "name": "Сазан",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1750521840,
+            "mode": "limited"
+        }
+    ],
+    "walfu_20": [
+        {
+            "id": 71,
+            "name": "Кижуч",
+            "price": 76,
+            "rarity": "rare",
+            "caught_at": 1750597327,
+            "mode": "limited"
+        }
+    ],
+    "summer_osu": [
+        {
+            "id": 121,
+            "name": "Золотая рыбка",
+            "price": 120,
+            "rarity": "legendary",
+            "caught_at": 1750601181,
+            "mode": "limited"
+        }
+    ],
+    "werewolf128": [
+        {
+            "id": 2,
+            "name": "Окунь",
+            "price": 6,
+            "rarity": "common",
+            "caught_at": 1750611631,
+            "mode": "limited"
+        }
+    ],
+    "teofoxq": [
+        {
+            "id": 92,
+            "name": "Мурена",
+            "price": 105,
+            "rarity": "epic",
+            "caught_at": 1750611639,
+            "mode": "limited"
+        }
+    ],
+    "hollymiler": [
+        {
+            "id": 32,
+            "name": "Судак",
+            "price": 33,
+            "rarity": "uncommon",
+            "caught_at": 1750773635,
+            "mode": "limited"
+        }
+    ],
+    "diistortionn": [
+        {
+            "id": 30,
+            "name": "Минога",
+            "price": 18,
+            "rarity": "common",
+            "caught_at": 1750773665,
+            "mode": "limited"
+        }
+    ],
+    "claimik_jyk": [
+        {
+            "id": 31,
+            "name": "Щука",
+            "price": 27,
+            "rarity": "uncommon",
+            "caught_at": 1751011254,
+            "mode": "limited"
+        }
+    ]
+}
