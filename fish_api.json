@@ -1,0 +1,1811 @@
+{
+    "fishes": [
+        {
+            "id": 1,
+            "name": "Карась",
+            "price": 1,
+            "rarity": "common"
+        },
+        {
+            "id": 2,
+            "name": "Окунь",
+            "price": 1,
+            "rarity": "common"
+        },
+        {
+            "id": 3,
+            "name": "Плотва",
+            "price": 1,
+            "rarity": "common"
+        },
+        {
+            "id": 4,
+            "name": "Ёрш",
+            "price": 1,
+            "rarity": "common"
+        },
+        {
+            "id": 5,
+            "name": "Пескарь",
+            "price": 1,
+            "rarity": "common"
+        },
+        {
+            "id": 6,
+            "name": "Уклейка",
+            "price": 1,
+            "rarity": "common"
+        },
+        {
+            "id": 7,
+            "name": "Бычок",
+            "price": 2,
+            "rarity": "common"
+        },
+        {
+            "id": 8,
+            "name": "Гольян",
+            "price": 2,
+            "rarity": "common"
+        },
+        {
+            "id": 9,
+            "name": "Верховка",
+            "price": 2,
+            "rarity": "common"
+        },
+        {
+            "id": 10,
+            "name": "Краснопёрка",
+            "price": 2,
+            "rarity": "common"
+        },
+        {
+            "id": 11,
+            "name": "Линь",
+            "price": 2,
+            "rarity": "common"
+        },
+        {
+            "id": 12,
+            "name": "Ротан",
+            "price": 2,
+            "rarity": "common"
+        },
+        {
+            "id": 13,
+            "name": "Густера",
+            "price": 2,
+            "rarity": "common"
+        },
+        {
+            "id": 14,
+            "name": "Подлещик",
+            "price": 2,
+            "rarity": "common"
+        },
+        {
+            "id": 15,
+            "name": "Чехонь",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 16,
+            "name": "Язь",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 17,
+            "name": "Жерех",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 18,
+            "name": "Сазан",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 19,
+            "name": "Толстолобик",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 20,
+            "name": "Белый амур",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 21,
+            "name": "Корюшка",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 22,
+            "name": "Снеток",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 23,
+            "name": "Ряпушка",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 24,
+            "name": "Сиг",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 25,
+            "name": "Хариус",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 26,
+            "name": "Форель ручьевая",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 27,
+            "name": "Голец",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 28,
+            "name": "Вьюн",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 29,
+            "name": "Щиповка",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 30,
+            "name": "Минога",
+            "price": 3,
+            "rarity": "common"
+        },
+        {
+            "id": 31,
+            "name": "Щука",
+            "price": 5,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 32,
+            "name": "Судак",
+            "price": 6,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 33,
+            "name": "Сом",
+            "price": 7,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 34,
+            "name": "Лещ",
+            "price": 4,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 35,
+            "name": "Карп",
+            "price": 5,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 36,
+            "name": "Кефаль",
+            "price": 6,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 37,
+            "name": "Ставрида",
+            "price": 5,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 38,
+            "name": "Сельдь",
+            "price": 4,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 39,
+            "name": "Камбала",
+            "price": 7,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 40,
+            "name": "Треска",
+            "price": 6,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 41,
+            "name": "Минтай",
+            "price": 5,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 42,
+            "name": "Окунь морской",
+            "price": 8,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 43,
+            "name": "Тунец малый",
+            "price": 9,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 44,
+            "name": "Скумбрия",
+            "price": 7,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 45,
+            "name": "Сардина",
+            "price": 6,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 46,
+            "name": "Анчоус",
+            "price": 5,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 47,
+            "name": "Барабулька",
+            "price": 8,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 48,
+            "name": "Морской окунь",
+            "price": 9,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 49,
+            "name": "Зубатка",
+            "price": 10,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 50,
+            "name": "Палтус малый",
+            "price": 10,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 51,
+            "name": "Терпуг",
+            "price": 8,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 52,
+            "name": "Налим",
+            "price": 7,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 53,
+            "name": "Угорь речной",
+            "price": 9,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 54,
+            "name": "Линь морской",
+            "price": 8,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 55,
+            "name": "Корюшка морская",
+            "price": 7,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 56,
+            "name": "Рыба-игла",
+            "price": 6,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 57,
+            "name": "Рыба-жаба",
+            "price": 5,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 58,
+            "name": "Рыба-попугай",
+            "price": 8,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 59,
+            "name": "Рыба-ангел",
+            "price": 9,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 60,
+            "name": "Рыба-бабочка",
+            "price": 7,
+            "rarity": "uncommon"
+        },
+        {
+            "id": 61,
+            "name": "Лосось",
+            "price": 15,
+            "rarity": "rare"
+        },
+        {
+            "id": 62,
+            "name": "Форель",
+            "price": 12,
+            "rarity": "rare"
+        },
+        {
+            "id": 63,
+            "name": "Осётр",
+            "price": 20,
+            "rarity": "rare"
+        },
+        {
+            "id": 64,
+            "name": "Белуга",
+            "price": 25,
+            "rarity": "rare"
+        },
+        {
+            "id": 65,
+            "name": "Севрюга",
+            "price": 18,
+            "rarity": "rare"
+        },
+        {
+            "id": 66,
+            "name": "Стерлядь",
+            "price": 22,
+            "rarity": "rare"
+        },
+        {
+            "id": 67,
+            "name": "Кета",
+            "price": 14,
+            "rarity": "rare"
+        },
+        {
+            "id": 68,
+            "name": "Горбуша",
+            "price": 13,
+            "rarity": "rare"
+        },
+        {
+            "id": 69,
+            "name": "Нерка",
+            "price": 16,
+            "rarity": "rare"
+        },
+        {
+            "id": 70,
+            "name": "Чавыча",
+            "price": 24,
+            "rarity": "rare"
+        },
+        {
+            "id": 71,
+            "name": "Кижуч",
+            "price": 17,
+            "rarity": "rare"
+        },
+        {
+            "id": 72,
+            "name": "Сима",
+            "price": 15,
+            "rarity": "rare"
+        },
+        {
+            "id": 73,
+            "name": "Таймень",
+            "price": 23,
+            "rarity": "rare"
+        },
+        {
+            "id": 74,
+            "name": "Ленок",
+            "price": 19,
+            "rarity": "rare"
+        },
+        {
+            "id": 75,
+            "name": "Муксун",
+            "price": 21,
+            "rarity": "rare"
+        },
+        {
+            "id": 76,
+            "name": "Чир",
+            "price": 20,
+            "rarity": "rare"
+        },
+        {
+            "id": 77,
+            "name": "Омуль",
+            "price": 22,
+            "rarity": "rare"
+        },
+        {
+            "id": 78,
+            "name": "Пелядь",
+            "price": 18,
+            "rarity": "rare"
+        },
+        {
+            "id": 79,
+            "name": "Ряпушка крупная",
+            "price": 16,
+            "rarity": "rare"
+        },
+        {
+            "id": 80,
+            "name": "Нельма",
+            "price": 25,
+            "rarity": "rare"
+        },
+        {
+            "id": 81,
+            "name": "Тунец голубой",
+            "price": 24,
+            "rarity": "rare"
+        },
+        {
+            "id": 82,
+            "name": "Марлин полосатый",
+            "price": 23,
+            "rarity": "rare"
+        },
+        {
+            "id": 83,
+            "name": "Рыба-меч",
+            "price": 25,
+            "rarity": "rare"
+        },
+        {
+            "id": 84,
+            "name": "Дорадо",
+            "price": 20,
+            "rarity": "rare"
+        },
+        {
+            "id": 85,
+            "name": "Сибас",
+            "price": 22,
+            "rarity": "rare"
+        },
+        {
+            "id": 86,
+            "name": "Луфарь",
+            "price": 18,
+            "rarity": "rare"
+        },
+        {
+            "id": 87,
+            "name": "Палтус",
+            "price": 24,
+            "rarity": "rare"
+        },
+        {
+            "id": 88,
+            "name": "Треска крупная",
+            "price": 21,
+            "rarity": "rare"
+        },
+        {
+            "id": 89,
+            "name": "Мойва крупная",
+            "price": 15,
+            "rarity": "rare"
+        },
+        {
+            "id": 90,
+            "name": "Сайра",
+            "price": 17,
+            "rarity": "rare"
+        },
+        {
+            "id": 91,
+            "name": "Акула малая",
+            "price": 30,
+            "rarity": "epic"
+        },
+        {
+            "id": 92,
+            "name": "Мурена",
+            "price": 35,
+            "rarity": "epic"
+        },
+        {
+            "id": 93,
+            "name": "Барракуда",
+            "price": 40,
+            "rarity": "epic"
+        },
+        {
+            "id": 94,
+            "name": "Рыба-пила",
+            "price": 45,
+            "rarity": "epic"
+        },
+        {
+            "id": 95,
+            "name": "Рыба-молот",
+            "price": 50,
+            "rarity": "epic"
+        },
+        {
+            "id": 96,
+            "name": "Рыба-луна",
+            "price": 38,
+            "rarity": "epic"
+        },
+        {
+            "id": 97,
+            "name": "Рыба-ёж",
+            "price": 32,
+            "rarity": "epic"
+        },
+        {
+            "id": 98,
+            "name": "Рыба-камень",
+            "price": 42,
+            "rarity": "epic"
+        },
+        {
+            "id": 99,
+            "name": "Рыба-наполеон",
+            "price": 48,
+            "rarity": "epic"
+        },
+        {
+            "id": 100,
+            "name": "Гигантский групер",
+            "price": 50,
+            "rarity": "epic"
+        },
+        {
+            "id": 101,
+            "name": "Манта",
+            "price": 45,
+            "rarity": "epic"
+        },
+        {
+            "id": 102,
+            "name": "Скат-хвостокол",
+            "price": 35,
+            "rarity": "epic"
+        },
+        {
+            "id": 103,
+            "name": "Рыба-гитара",
+            "price": 30,
+            "rarity": "epic"
+        },
+        {
+            "id": 104,
+            "name": "Воббегонг",
+            "price": 33,
+            "rarity": "epic"
+        },
+        {
+            "id": 105,
+            "name": "Летучая рыба",
+            "price": 28,
+            "rarity": "epic"
+        },
+        {
+            "id": 106,
+            "name": "Рыба-сабля",
+            "price": 40,
+            "rarity": "epic"
+        },
+        {
+            "id": 107,
+            "name": "Морской чёрт",
+            "price": 45,
+            "rarity": "epic"
+        },
+        {
+            "id": 108,
+            "name": "Рыба-гадюка",
+            "price": 38,
+            "rarity": "epic"
+        },
+        {
+            "id": 109,
+            "name": "Арапаима",
+            "price": 50,
+            "rarity": "epic"
+        },
+        {
+            "id": 110,
+            "name": "Змееголов",
+            "price": 42,
+            "rarity": "epic"
+        },
+        {
+            "id": 111,
+            "name": "Электрический угорь",
+            "price": 48,
+            "rarity": "epic"
+        },
+        {
+            "id": 112,
+            "name": "Пиранья",
+            "price": 35,
+            "rarity": "epic"
+        },
+        {
+            "id": 113,
+            "name": "Красный паку",
+            "price": 40,
+            "rarity": "epic"
+        },
+        {
+            "id": 114,
+            "name": "Тигровая рыба",
+            "price": 45,
+            "rarity": "epic"
+        },
+        {
+            "id": 115,
+            "name": "Сом-людоед",
+            "price": 50,
+            "rarity": "epic"
+        },
+        {
+            "id": 116,
+            "name": "Скат-орляк",
+            "price": 42,
+            "rarity": "epic"
+        },
+        {
+            "id": 117,
+            "name": "Рыба-аллигатор",
+            "price": 48,
+            "rarity": "epic"
+        },
+        {
+            "id": 118,
+            "name": "Голиаф",
+            "price": 50,
+            "rarity": "epic"
+        },
+        {
+            "id": 119,
+            "name": "Панцирная щука",
+            "price": 45,
+            "rarity": "epic"
+        },
+        {
+            "id": 120,
+            "name": "Атлантический голубой марлин",
+            "price": 50,
+            "rarity": "epic"
+        },
+        {
+            "id": 121,
+            "name": "Золотая рыбка",
+            "price": 60,
+            "rarity": "legendary"
+        },
+        {
+            "id": 122,
+            "name": "Рыба-дракон",
+            "price": 70,
+            "rarity": "legendary"
+        },
+        {
+            "id": 123,
+            "name": "Кракен",
+            "price": 100,
+            "rarity": "legendary"
+        },
+        {
+            "id": 124,
+            "name": "Рыба-феникс",
+            "price": 80,
+            "rarity": "legendary"
+        },
+        {
+            "id": 125,
+            "name": "Левиафан",
+            "price": 100,
+            "rarity": "legendary"
+        },
+        {
+            "id": 126,
+            "name": "Мегалодон",
+            "price": 100,
+            "rarity": "legendary"
+        },
+        {
+            "id": 127,
+            "name": "Царь-рыба",
+            "price": 90,
+            "rarity": "legendary"
+        },
+        {
+            "id": 128,
+            "name": "Небесный карп",
+            "price": 75,
+            "rarity": "legendary"
+        },
+        {
+            "id": 129,
+            "name": "Лунная медуза",
+            "price": 65,
+            "rarity": "legendary"
+        },
+        {
+            "id": 130,
+            "name": "Солнечный тунец",
+            "price": 85,
+            "rarity": "legendary"
+        },
+        {
+            "id": 131,
+            "name": "Звёздный скат",
+            "price": 95,
+            "rarity": "legendary"
+        },
+        {
+            "id": 132,
+            "name": "Громовая акула",
+            "price": 100,
+            "rarity": "legendary"
+        },
+        {
+            "id": 133,
+            "name": "Ледяной кит",
+            "price": 100,
+            "rarity": "legendary"
+        },
+        {
+            "id": 134,
+            "name": "Огненный угорь",
+            "price": 90,
+            "rarity": "legendary"
+        },
+        {
+            "id": 135,
+            "name": "Хрустальная рыба",
+            "price": 80,
+            "rarity": "legendary"
+        },
+        {
+            "id": 136,
+            "name": "Теневой морской дьявол",
+            "price": 95,
+            "rarity": "legendary"
+        },
+        {
+            "id": 137,
+            "name": "Изумрудная рыба-меч",
+            "price": 85,
+            "rarity": "legendary"
+        },
+        {
+            "id": 138,
+            "name": "Алмазный осётр",
+            "price": 100,
+            "rarity": "legendary"
+        },
+        {
+            "id": 139,
+            "name": "Рубиновая пиранья",
+            "price": 75,
+            "rarity": "legendary"
+        },
+        {
+            "id": 140,
+            "name": "Сапфировый дельфин",
+            "price": 90,
+            "rarity": "legendary"
+        },
+        {
+            "id": 141,
+            "name": "Платиновый марлин",
+            "price": 100,
+            "rarity": "legendary"
+        },
+        {
+            "id": 142,
+            "name": "Мифический коралловый змей",
+            "price": 100,
+            "rarity": "legendary"
+        },
+        {
+            "id": 143,
+            "name": "Вечный карп",
+            "price": 80,
+            "rarity": "legendary"
+        },
+        {
+            "id": 144,
+            "name": "Бессмертный лосось",
+            "price": 90,
+            "rarity": "legendary"
+        },
+        {
+            "id": 145,
+            "name": "Древняя целаканта",
+            "price": 100,
+            "rarity": "legendary"
+        },
+        {
+            "id": 146,
+            "name": "Рыба-оракул",
+            "price": 95,
+            "rarity": "legendary"
+        },
+        {
+            "id": 147,
+            "name": "Хаотичный спрут",
+            "price": 100,
+            "rarity": "legendary"
+        },
+        {
+            "id": 148,
+            "name": "Божественный краб",
+            "price": 85,
+            "rarity": "legendary"
+        },
+        {
+            "id": 149,
+            "name": "Космическая медуза",
+            "price": 100,
+            "rarity": "legendary"
+        },
+        {
+            "id": 150,
+            "name": "Легенда океана",
+            "price": 100,
+            "rarity": "legendary"
+        },
+        {
+            "id": 151,
+            "name": "Португальский кораблик",
+            "price": 99,
+            "rarity": "legendary"
+        },
+        {
+            "id": 152,
+            "name": "Старый ботинок",
+            "price": 1,
+            "rarity": "common"
+        },
+        {
+            "id": 153,
+            "name": "Гигантский электрический скат",
+            "price": 95,
+            "rarity": "legendary"
+        },
+        {
+            "id": 154,
+            "name": "Бессмертный тунец",
+            "price": 150,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 155,
+            "name": "Вечный марлин",
+            "price": 180,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 156,
+            "name": "Неумирающий скат",
+            "price": 200,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 157,
+            "name": "Бесконечный осётр",
+            "price": 220,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 158,
+            "name": "Феникс-рыба",
+            "price": 250,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 159,
+            "name": "Ангельская акула",
+            "price": 280,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 160,
+            "name": "Демонический сом",
+            "price": 300,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 161,
+            "name": "Хранитель рифов",
+            "price": 190,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 162,
+            "name": "Вечный угорь",
+            "price": 210,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 163,
+            "name": "Небожитель глубин",
+            "price": 230,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 164,
+            "name": "Кристальный карп",
+            "price": 260,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 165,
+            "name": "Проклятый меч-рыба",
+            "price": 290,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 166,
+            "name": "Священный палтус",
+            "price": 170,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 167,
+            "name": "Тень бездны",
+            "price": 240,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 168,
+            "name": "Создатель течений",
+            "price": 270,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 169,
+            "name": "Обсидиановый окунь",
+            "price": 300,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 170,
+            "name": "Сердце моря",
+            "price": 180,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 171,
+            "name": "Песнь русалки",
+            "price": 220,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 172,
+            "name": "Странник пучин",
+            "price": 250,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 173,
+            "name": "Император приливов",
+            "price": 280,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 174,
+            "name": "Призрак впадины",
+            "price": 190,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 175,
+            "name": "Судьба морей",
+            "price": 230,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 176,
+            "name": "Клык океана",
+            "price": 260,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 177,
+            "name": "Жемчужина бессмертия",
+            "price": 290,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 178,
+            "name": "Шепот глубин",
+            "price": 200,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 179,
+            "name": "Кровь тритона",
+            "price": 240,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 180,
+            "name": "Слеза океана",
+            "price": 270,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 181,
+            "name": "Последний ихтиозавр",
+            "price": 300,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 182,
+            "name": "Скорбь капитана",
+            "price": 210,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 183,
+            "name": "Корона Посейдона",
+            "price": 250,
+            "rarity": "immortal",
+            "caught": false
+        },
+        {
+            "id": 184,
+            "name": "Мифический кракен",
+            "price": 500,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 185,
+            "name": "Легендарный левиафан",
+            "price": 550,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 186,
+            "name": "Химера глубин",
+            "price": 450,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 187,
+            "name": "Сфинкс океана",
+            "price": 600,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 188,
+            "name": "Гидра-рыба",
+            "price": 400,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 189,
+            "name": "Цербер глубин",
+            "price": 550,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 190,
+            "name": "Феникс-скат",
+            "price": 500,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 191,
+            "name": "Единорог морей",
+            "price": 450,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 192,
+            "name": "Грифон рифов",
+            "price": 550,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 193,
+            "name": "Василиск пучин",
+            "price": 600,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 194,
+            "name": "Мантикора вод",
+            "price": 400,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 195,
+            "name": "Пегас волн",
+            "price": 500,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 196,
+            "name": "Кентавр глубин",
+            "price": 550,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 197,
+            "name": "Минотавр бездны",
+            "price": 450,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 198,
+            "name": "Сирена-охотница",
+            "price": 600,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 199,
+            "name": "Титан приливов",
+            "price": 500,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 200,
+            "name": "Олимпиец вод",
+            "price": 550,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 201,
+            "name": "Асгардский лосось",
+            "price": 400,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 202,
+            "name": "Валькирия рифов",
+            "price": 600,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 203,
+            "name": "Дракончик глубин",
+            "price": 450,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 204,
+            "name": "Фея кораллов",
+            "price": 500,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 205,
+            "name": "Тролль пучин",
+            "price": 550,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 206,
+            "name": "Эльф прибоя",
+            "price": 400,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 207,
+            "name": "Гном абисса",
+            "price": 600,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 208,
+            "name": "Оборотень волн",
+            "price": 500,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 209,
+            "name": "Вампир глубин",
+            "price": 450,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 210,
+            "name": "Зомби-акула",
+            "price": 550,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 211,
+            "name": "Призрак корабля",
+            "price": 600,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 212,
+            "name": "Джинн лагуны",
+            "price": 400,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 213,
+            "name": "Доппельгангер вод",
+            "price": 500,
+            "rarity": "mythical",
+            "caught": false
+        },
+        {
+            "id": 214,
+            "name": "Арканный дракон",
+            "price": 900,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 215,
+            "name": "Руна океана",
+            "price": 800,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 216,
+            "name": "Глиф глубин",
+            "price": 1000,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 217,
+            "name": "Свиток пучин",
+            "price": 750,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 218,
+            "name": "Тотем приливов",
+            "price": 950,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 219,
+            "name": "Артефакт бездны",
+            "price": 850,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 220,
+            "name": "Реактор глубин",
+            "price": 1000,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 221,
+            "name": "Кристалл маны",
+            "price": 700,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 222,
+            "name": "Сфера прибоя",
+            "price": 900,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 223,
+            "name": "Жезл тритона",
+            "price": 800,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 224,
+            "name": "Чары сирены",
+            "price": 1000,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 225,
+            "name": "Талисман Нептуна",
+            "price": 750,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 226,
+            "name": "Око глубины",
+            "price": 950,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 227,
+            "name": "Пентакль волн",
+            "price": 850,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 228,
+            "name": "Символ течения",
+            "price": 1000,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 229,
+            "name": "Скрижаль моря",
+            "price": 700,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 230,
+            "name": "Фолиант приливов",
+            "price": 900,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 231,
+            "name": "Реликвия абисса",
+            "price": 800,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 232,
+            "name": "Камень судьбы",
+            "price": 1000,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 233,
+            "name": "Ловец снов",
+            "price": 750,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 234,
+            "name": "Ключ от бездны",
+            "price": 950,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 235,
+            "name": "Печать Посейдона",
+            "price": 850,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 236,
+            "name": "Кодекс волн",
+            "price": 1000,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 237,
+            "name": "Свиток Ктулху",
+            "price": 700,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 238,
+            "name": "Гримуар глубин",
+            "price": 900,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 239,
+            "name": "Рунический якорь",
+            "price": 800,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 240,
+            "name": "Магический компас",
+            "price": 1000,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 241,
+            "name": "Кристалл пророчеств",
+            "price": 750,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 242,
+            "name": "Шар судьбы",
+            "price": 950,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 243,
+            "name": "Арканная жемчужина",
+            "price": 850,
+            "rarity": "arcane",
+            "caught": false
+        },
+        {
+            "id": 244,
+            "name": "Последний Левиафан",
+            "price": 5000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 245,
+            "name": "Создатель вод",
+            "price": 4500,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 246,
+            "name": "Абсолютный хищник",
+            "price": 4000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 247,
+            "name": "Владыка океана",
+            "price": 3500,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 248,
+            "name": "Изначальная рыба",
+            "price": 5000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 249,
+            "name": "Конец эволюции",
+            "price": 3000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 250,
+            "name": "Судный день",
+            "price": 4500,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 251,
+            "name": "Божество глубин",
+            "price": 4000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 252,
+            "name": "Ангел-разрушитель",
+            "price": 3500,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 253,
+            "name": "Демиург морей",
+            "price": 5000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 254,
+            "name": "Космический кит",
+            "price": 3000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 255,
+            "name": "Сверхновая рыба",
+            "price": 4500,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 256,
+            "name": "Черная дыра",
+            "price": 4000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 257,
+            "name": "Сингулярность",
+            "price": 3500,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 258,
+            "name": "Квантовый скат",
+            "price": 5000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 259,
+            "name": "Темная материя",
+            "price": 3000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 260,
+            "name": "Абсолютный ноль",
+            "price": 4500,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 261,
+            "name": "Большой взрыв",
+            "price": 4000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 262,
+            "name": "Теория всего",
+            "price": 3500,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 263,
+            "name": "Конечная истина",
+            "price": 5000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 264,
+            "name": "Последняя загадка",
+            "price": 3000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 265,
+            "name": "Великий аттрактор",
+            "price": 4500,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 266,
+            "name": "Скрытая переменная",
+            "price": 4000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 267,
+            "name": "Парадокс",
+            "price": 3500,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 268,
+            "name": "Горизонт событий",
+            "price": 5000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 269,
+            "name": "Струна времени",
+            "price": 3000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 270,
+            "name": "Мембрана",
+            "price": 4500,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 271,
+            "name": "Космическая струна",
+            "price": 4000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 272,
+            "name": "Плазмоид",
+            "price": 3500,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 273,
+            "name": "Финальная точка",
+            "price": 5000,
+            "rarity": "ultimate",
+            "caught": false
+        },
+        {
+            "id": 274,
+            "name": "Наливайка для дедули",
+            "price": 0,
+            "rarity": "ultimate",
+            "caught": true
+        },
+        {
+            "id": 275,
+            "name": "Рыба-капля",
+            "price": 11,
+            "rarity": "rare"
+        },
+        {
+            "id": 276,
+            "name": "Украденная шляпа",
+            "price": 4278,
+            "rarity": "ultimate"
+        },
+        {
+            "id": 277,
+            "name": "Slark",
+            "price": 88,
+            "rarity": "legendary"
+        },
+        {
+            "id": 278,
+            "name": "lizamoloko",
+            "price": 2866,
+            "rarity": "ultimate"
+        },
+        {
+            "id": 279,
+            "name": "Бутылка Водки",
+            "price": 15,
+            "rarity": "rare"
+        },
+        {
+            "id": 280,
+            "name": "Балтика 9 0.5 л",
+            "price": 2,
+            "rarity": "common"
+        },
+        {
+            "id": 281,
+            "name": "Коньяк \"Арарат\" 5*",
+            "price": 60,
+            "rarity": "legendary"
+        }
+    ]
+}
