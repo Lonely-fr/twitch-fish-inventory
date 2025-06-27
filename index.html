@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Инвентарь рыб</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .fish-card { transition: transform 0.3s; }
+        .fish-card:hover { transform: scale(1.05); }
+        .legendary { border: 3px solid gold; }
+        .common { border: 1px solid silver; }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="text-center">🐟 Инвентарь рыб 🐟</h1>
+        <div id="inventory" class="row row-cols-1 row-cols-md-3 g-4"></div>
+    </div>
+
+    <script>
+        fetch('http://localhost:8000/api/fishes')
+            .then(response => response.json())
+            .then(data => {
+                const inventory = document.getElementById('inventory');
+                data.fishes.forEach(fish => {
+                    inventory.innerHTML += `
+                        <div class="col">
+                            <div class="card fish-card ${fish.rarity}">
+                                <div class="card-body">
+                                    <h5 class="card-title">${fish.name}</h5>
+                                    <span class="badge bg-primary">${fish.price} LC</span>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                });
+            });
+    </script>
+</body>
+</html>
